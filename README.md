@@ -1,7 +1,6 @@
 🎓 Student Academic Performance Prediction
 📌 Project Overview
 This project predicts a student's academic performance based on various factors like study habits, extracurricular activities, mental health, attendance, and previous scores. The model helps students understand their academic standing and provides personalized recommendations for improvement.
-
 💡 Features
 ✅ Predicts student performance as Pass or Fail with probability
 ✅ Analyzes study habits, health factors, and previous scores
