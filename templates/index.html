@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Academic Performance</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f7fa;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding-top: 20px;
+        }
+        .title {
+            font-size: 22px;
+            font-weight: bold;
+            text-align: center;
+            margin-bottom: 15px;
+            color: #007bff;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+            width: 350px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        label {
+            font-weight: bold;
+            margin-bottom: 5px;
+            display: block;
+        }
+        input, select {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            background: #007bff;
+            color: white;
+            padding: 10px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+        #result {
+            font-size: 18px;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="title">Student Academic Performance Prediction</div>
+    <div class="container">
+        <label>Gender:</label>
+        <select>
+            <option>Male</option>
+            <option>Female</option>
+        </select>
+        <label>Extracurricular activities:</label>
+        <select id="extracurricular">
+            <option value="Music">Music</option>
+            <option value="Sports">Sports</option>
+            <option value="Art">Art</option>
+            <option value="Dance">Dance</option>
+            <option value="Debate">Debate</option>
+            <option value="Drama">Drama</option>
+            <option value="None">None</option>
+        </select>
+        <label>Study Hours Per Day:</label>
+        <input type="number" id="studyHours" placeholder="Enter hours">
+        <label>Sleep Hours Per Day:</label>
+        <input type="number" id="sleepHours" placeholder="Enter hours">
+        <label>Physical Health:</label>
+        <select id="physicalHealth">
+            <option value="Good">Good</option>
+            <option value="Average">Average</option>
+            <option value="Poor">Poor</option>
+        </select>
+        <label>Internet Usage:</label>
+        <select id="Internet Usage">
+            <option value="Online Classes ">Online Classes </option>
+            <option value="Social Media">SocialMedia</option>
+            <option value=" Streaming "> Streaming </option>
+            <option value="Research">Research</option>
+            <option value="Gaming">Gaming</option>
+            <option value="None">None</option>
+        </select>
+        <label>Mental Health:</label>
+        <select id="mentalHealth">
+            <option value="Stable">Stable</option>
+            <option value="Anxious">Anxious</option>
+            <option value="Stressed">Stressed</option>
+        </select>
+        <label>Attendance Rate (%):</label>
+        <input type="number" id="attendanceRate" placeholder="Enter percentage">
+        <label>Previous Semester Score (%):</label>
+        <input type="number" id="previousScore" placeholder="Enter score">
+        <label>Parental Level of Education:</label>
+        <select id="parentalEducation">
+            <option value="High School">High School</option>
+            <option value="Uneducated">Uneducated</option>
+            <option value="Associate Degree">Associate Degree</option>
+            <option value="Bachelor's Degree">Bachelor's Degree</option>
+            <option value="Master's Degree">Master's Degree</option>
+            <option value="Doctorate">Doctorate</option>
+        </select>
+        <label>Test Preparation Course:</label>
+        <select id="testPrep">
+            <option value="Incompleted">Incompleted</option>
+            <option value="Completed">Completed</option>
+        </select>
+        <label>Writing Score (out of 100):</label>
+        <input type="number" id="writingScore" placeholder="Enter score">
+        <label>Reading Score (out of 100):</label>
+        <input type="number" id="readingScore" placeholder="Enter score">
+        <button id="predictBtn">Predict</button>
+        <p id="result"></p>
+    </div>
+    <script>
+        document.getElementById("predictBtn").addEventListener("click", function (event) {
+            event.preventDefault(); 
+            let previousScore = parseFloat(document.getElementById("previousScore").value) || 0;
+            let attendanceRate = parseFloat(document.getElementById("attendanceRate").value) || 0;
+            let writingScore = parseFloat(document.getElementById("writingScore").value) || 0;
+            let readingScore = parseFloat(document.getElementById("readingScore").value) || 0;
+            let testPrep = document.getElementById("testPrep").value;
+            let parentalEducation = document.getElementById("parentalEducation").value;
+            let baseScore = (previousScore + attendanceRate) / 2;
+        
+            if (testPrep === "Completed") baseScore += 5;
+            if (parentalEducation.includes("Bachelor") || parentalEducation.includes("Master") || parentalEducation.includes("Doctorate")) {
+                baseScore += 5;
+            }
+            if (writingScore < 35 || readingScore < 35) baseScore -= 20;
+            
+            let percentage = Math.max(0, Math.min(100, baseScore));
+            let resultElement = document.getElementById("result");
+            let feedbackMessage = "";
+            let imgSrc = "";
+        
+            if (percentage >= 50) {
+                resultElement.innerText = `Prediction: Pass ${percentage.toFixed(2)}%`;
+                resultElement.style.color = "green";
+                feedbackMessage = "Great job! Keep up the good work. Stay consistent in your studies!";
+                imgSrc = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh7QbyZ5JBHYDVhopThP65VcNnvsSlMOf-wbqNw_ztHtbzcTNGw_mo6EV-_6rFO8Jy1qo&usqp=CAU"; 
+            } else {
+                resultElement.innerText = `Prediction: Fail ${percentage.toFixed(2)}%`;
+                resultElement.style.color = "red";
+                feedbackMessage = "Don't worry! Identify areas for improvement and  keep practicing!";
+                imgSrc = "data:image/jpeg;base64,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"; 
+            }
+            
+          
+            let feedbackContainer = document.createElement("div");
+            feedbackContainer.style.position = "fixed";
+            feedbackContainer.style.top = "50%";
+            feedbackContainer.style.left = "50%";
+            feedbackContainer.style.transform = "translate(-50%, -50%)";
+            feedbackContainer.style.padding = "20px";
+            feedbackContainer.style.background = "white";
+            feedbackContainer.style.boxShadow = "0px 4px 8px rgba(0, 0, 0, 0.2)";
+            feedbackContainer.style.borderRadius = "10px";
+            feedbackContainer.style.textAlign = "center";
+            feedbackContainer.style.display = "flex";
+            feedbackContainer.style.flexDirection = "column";
+            feedbackContainer.style.alignItems = "center";
+        
+            let feedbackText = document.createElement("p");
+            feedbackText.innerText = feedbackMessage;
+            feedbackContainer.appendChild(feedbackText);
+        
+            let feedbackImg = document.createElement("img");
+            feedbackImg.src = imgSrc;
+            feedbackImg.style.width = "150px";
+            feedbackImg.style.display = "block";
+            feedbackImg.style.margin = "10px 0";
+            feedbackContainer.appendChild(feedbackImg);
+        
+            let closeButton = document.createElement("button");
+            closeButton.innerText = "Close";
+            closeButton.style.marginTop = "10px";
+            closeButton.style.padding = "8px 12px";
+            closeButton.style.border = "none";
+            closeButton.style.background = "#007bff";
+            closeButton.style.color = "white";
+            closeButton.style.borderRadius = "5px";
+            closeButton.style.cursor = "pointer";
+            closeButton.onclick = function () { feedbackContainer.remove(); };
+            feedbackContainer.appendChild(closeButton);
+        
+            document.body.appendChild(feedbackContainer);
+        });        
+    </script>    
+</body>
+</html>

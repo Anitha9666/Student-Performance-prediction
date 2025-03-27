@@ -1,0 +1,1001 @@
+gender	parental level of education	test preparation course	reading score	writing score	study hours	extracurricular activities	sleep hours	internet usage	physical health	mental health
+female	Uneducated	incomplete	72	74	7.141887024026623	Art	9.5938995352224	Streaming	Good	Stable
+female	Master’s Degree	completed	90	88	7.812528356810211	Music	5.42085512052638	None	Poor	Anxious
+female	Uneducated	incomplete	95	93	1.864380788602189	Debate	5.554229547055044	Streaming	Poor	Stable
+male	Associate’s Degree	incomplete	57	44	0.6207750920335131	Drama	5.592744376954671	Online Classes	Poor	Anxious
+male	High School	incomplete	78	75	4.816452357850391	incomplete	6.020009442452457	Research	Good	Anxious
+female	Master’s Degree	incomplete	83	78	4.846742225157916	Debate	6.351543588154169	Research	Average	Stable
+female	Master’s Degree	completed	95	92	9.249236208203882	Music	9.543424428215236	Streaming	Good	Anxious
+male	Some College	incomplete	43	39	0.5042354173486618	Art	9.576041662209995	None	Poor	Stable
+male	Master’s Degree	completed	64	67	2.4878710345506603	Dance	9.15167668578866	Gaming	Poor	Stable
+female	Associate’s Degree	incomplete	60	50	2.388337837673812	Music	4.767494180038684	None	Good	Anxious
+male	Master’s Degree	incomplete	54	52	1.583755786047375	Art	4.604513545582549	Streaming	Poor	Anxious
+male	Bachelor’s Degree	incomplete	52	43	9.684168955690296	Debate	5.918464314934731	Research	Average	Anxious
+female	Uneducated	incomplete	81	73	7.595170324625219	Dance	5.609629891296688	Social Media	Average	Stable
+male	Master’s Degree	completed	72	70	2.9818236522650987	Art	7.553882155922969	None	Good	Stressed
+female	Bachelor’s Degree	incomplete	53	58	2.0833161030589373	Music	8.654510138741019	Social Media	Poor	Stressed
+female	High School	incomplete	75	78	8.509361664882908	Drama	6.28253338477022	Social Media	Good	Stressed
+male	Associate’s Degree	incomplete	89	86	3.482116054809415	Debate	5.282963279713908	None	Poor	Anxious
+female	Some College	incomplete	32	28	0.2067055786087501	Dance	6.461176534779919	Online Classes	Good	Anxious
+male	Bachelor’s Degree	completed	42	46	6.664141418667775	incomplete	9.95401084453514	Streaming	Poor	Anxious
+female	Associate’s Degree	incomplete	58	61	7.772993708956212	Sports	8.13411658175907	None	Good	Anxious
+male	High School	incomplete	69	63	0.1730970725439551	Dance	7.112265753806387	Gaming	Good	Stable
+female	Some College	completed	75	70	3.996126697888697	Drama	7.226452786702141	None	Average	Stressed
+male	Some College	incomplete	54	53	9.3303272449536	Debate	6.858421932017834	Gaming	Poor	Stressed
+female	Master’s Degree	incomplete	73	73	6.136530071308365	Music	5.646942957490966	Online Classes	Average	Stressed
+male	Master’s Degree	completed	71	80	6.683481448973618	Drama	8.592160057970608	Streaming	Good	Stable
+male	Uneducated	incomplete	74	72	5.587450428865313	Music	9.977574200551604	None	Average	Anxious
+male	High School	incomplete	54	55	3.0505010779131734	Drama	8.613206637152413	Research	Poor	Anxious
+female	Master’s Degree	incomplete	69	75	2.7956469901362624	Music	8.956165858990374	None	Poor	Stable
+male	Bachelor’s Degree	incomplete	70	65	0.7033437019837574	incomplete	5.432401416069058	Research	Average	Stable
+female	Master’s Degree	incomplete	70	75	1.7785032908766465	Dance	7.634730635479972	Research	Poor	Stable
+female	Uneducated	incomplete	74	74	1.045576430566657	Dance	6.331829407212686	Social Media	Good	Stressed
+female	Associate’s Degree	incomplete	65	61	7.532042555055622	incomplete	7.952999571258303	None	Poor	Anxious
+female	Master’s Degree	incomplete	72	65	1.7945081095074111	Dance	8.603441473422308	Streaming	Good	Stable
+male	Master’s Degree	incomplete	42	38	9.437635313149936	Art	4.804831665557828	Research	Good	Stable
+male	Some College	incomplete	87	82	5.694671261424908	Drama	4.08809233648918	None	Good	Stable
+male	Some College	completed	81	79	7.713157970858528	Debate	5.744311199590792	Online Classes	Average	Stable
+female	Uneducated	incomplete	81	83	1.0064974472792698	Debate	8.048532533588133	Research	Average	Anxious
+female	Associate’s Degree	incomplete	64	59	4.3856295427656935	Music	7.231899807714655	Online Classes	Poor	Stressed
+female	Uneducated	completed	90	88	2.187521678970147	Sports	7.933871119068963	Research	Good	Anxious
+male	Bachelor’s Degree	incomplete	56	57	3.4442995317642966	Art	8.263185294482454	Gaming	Average	Stressed
+male	Some College	incomplete	61	54	1.177945796248544	Debate	7.352957396543829	Social Media	Good	Anxious
+female	Associate’s Degree	incomplete	73	68	0.7237372268639541	Drama	4.0283632180470095	Streaming	Poor	Anxious
+female	Bachelor’s Degree	incomplete	58	65	3.286335334879759	Dance	4.026008108322923	Streaming	Average	Stable
+male	Master’s Degree	completed	65	66	9.126239118858486	Drama	9.521348974964877	Research	Good	Stressed
+female	Uneducated	incomplete	56	54	5.438639509939168	Drama	7.3303962288245295	Research	Average	Anxious
+male	Associate’s Degree	incomplete	54	57	6.954036240304079	Sports	5.443497026873658	Social Media	Average	Anxious
+female	Some College	completed	65	62	8.099706411453486	Art	7.926356561199307	Social Media	Good	Anxious
+female	Some College	incomplete	71	76	8.508496587450637	Dance	9.449798092600023	Gaming	Good	Anxious
+female	Associate’s Degree	completed	74	76	2.697040409679625	Art	6.180285276930146	Gaming	Poor	Stressed
+male	Master’s Degree	completed	84	82	9.21645630886142	Music	9.059093707263704	Research	Good	Anxious
+male	Uneducated	incomplete	55	48	2.298620354057204	Debate	4.350148730427889	Research	Average	Stable
+male	High School	completed	69	68	3.211914603286592	Debate	4.309624995701459	Gaming	Good	Stable
+male	Uneducated	incomplete	44	42	7.787009699247973	incomplete	9.792200836855235	Streaming	Poor	Stable
+male	Master’s Degree	incomplete	78	75	9.175724908199449	Music	9.176058939888115	Research	Poor	Anxious
+female	Master’s Degree	completed	84	87	3.779114152529085	Sports	6.042457694334042	Research	Good	Stable
+female	Master’s Degree	incomplete	41	43	9.53834613386602	Sports	9.854706787819486	None	Average	Anxious
+female	Master’s Degree	completed	85	86	5.332313560651475	Debate	5.800231069150965	Online Classes	Good	Stable
+male	Some College	incomplete	55	49	6.489598955036385	Debate	4.04822127258379	None	Poor	Anxious
+male	High School	completed	59	58	3.4988968053437173	Art	6.897505083830754	None	Average	Stable
+female	Some College	incomplete	17	10	5.165103792828482	Music	8.81987085856891	Social Media	Poor	Stable
+male	Master’s Degree	completed	74	72	4.057449682310227	incomplete	5.231144853008962	Gaming	Good	Stressed
+male	Associate’s Degree	incomplete	39	34	8.21995949557721	Art	4.139409649658124	Online Classes	Poor	Anxious
+male	Some College	incomplete	61	55	1.140253941202154	Debate	9.035383620026227	Online Classes	Average	Stressed
+female	Some College	incomplete	80	71	2.776109583238365	Sports	7.4641558189908706	Gaming	Average	Stable
+female	Uneducated	incomplete	58	59	8.714413248767075	Debate	4.1704381245219775	None	Poor	Anxious
+male	Master’s Degree	incomplete	64	61	8.26245857629302	Sports	4.639723153080548	Social Media	Good	Stressed
+male	Bachelor’s Degree	incomplete	37	37	3.98591887963268	Drama	5.631247795615221	Research	Average	Stressed
+female	Associate’s Degree	incomplete	72	74	3.4136541379632224	Music	6.569663139600351	Online Classes	Average	Stable
+male	Bachelor’s Degree	incomplete	58	56	2.2311416861439204	Music	5.487693580159839	Research	Poor	Anxious
+female	Uneducated	incomplete	64	57	8.729024534003281	Debate	6.192680487701968	Social Media	Average	Stable
+female	Bachelor’s Degree	completed	63	73	2.843999182753091	incomplete	6.46482524797728	Social Media	Average	Stressed
+male	Uneducated	completed	55	63	8.321275137194942	Dance	6.068030117767699	Gaming	Poor	Stable
+female	Associate’s Degree	incomplete	51	48	6.843930266413143	Art	6.242204550423821	Research	Average	Stressed
+male	High School	incomplete	57	56	5.459865430775533	Drama	8.415624979652605	Gaming	Good	Stressed
+male	Uneducated	incomplete	49	41	7.280234745194225	Sports	5.726508543852944	None	Poor	Stable
+male	Uneducated	incomplete	41	38	6.989191601959246	incomplete	8.943462461223103	None	Average	Anxious
+male	Bachelor’s Degree	incomplete	26	22	1.185708037065597	Art	9.187840518728333	Social Media	Average	Anxious
+male	Some College	completed	78	81	7.656461987067132	Music	9.643918858248178	Streaming	Poor	Stressed
+female	High School	completed	74	72	3.912590500103714	Dance	8.487571602349798	Research	Average	Stable
+female	Uneducated	incomplete	68	68	4.28099782402004	Dance	4.856612698283718	Online Classes	Good	Anxious
+female	Bachelor’s Degree	incomplete	49	50	0.8641416646919264	Art	4.174344114189802	Social Media	Good	Stressed
+male	Some College	incomplete	45	45	1.7722215130061036	incomplete	8.392090255116402	Online Classes	Good	Anxious
+male	Uneducated	completed	47	54	7.720727436652512	incomplete	8.506189275698663	Streaming	Good	Anxious
+male	Master’s Degree	incomplete	64	63	4.279822449595092	Dance	7.556312462448323	Online Classes	Poor	Stable
+male	Bachelor’s Degree	incomplete	39	34	8.48724918719023	Art	6.503465995177023	Social Media	Poor	Stable
+female	High School	incomplete	80	82	9.533844115079862	Sports	6.836120448199556	None	Good	Anxious
+female	Some College	incomplete	83	88	3.664220760703305	Dance	9.785969846457412	None	Good	Stable
+female	High School	incomplete	71	74	5.429073030857147	Drama	4.360580881799162	Social Media	Poor	Stable
+female	Associate’s Degree	incomplete	70	67	0.0210302275766283	Drama	7.496320308101778	None	Good	Anxious
+female	Uneducated	incomplete	86	82	5.841428197912757	Art	7.489996241070973	None	Poor	Stressed
+female	High School	incomplete	72	74	0.4508268574042684	Sports	5.715371062341144	Gaming	Average	Stable
+male	High School	incomplete	34	36	2.940991042900809	Debate	4.161103593653664	Social Media	Poor	Stable
+male	Master’s Degree	incomplete	79	71	8.67151971416144	incomplete	6.006237036439387	Social Media	Average	Stable
+male	Associate’s Degree	completed	45	50	1.0434031726209605	Sports	6.418675680160767	Research	Average	Anxious
+female	High School	incomplete	86	92	9.194402997652588	Art	6.785184416190091	None	Average	Stressed
+male	High School	completed	81	82	0.9636715910460968	Drama	8.090513230339255	Online Classes	Poor	Stable
+male	Bachelor’s Degree	completed	66	62	0.6669615636781356	Debate	4.198797201749724	Social Media	Good	Stable
+female	Uneducated	completed	72	70	5.767378844113974	Art	6.021943178825089	None	Average	Stressed
+female	Uneducated	incomplete	67	62	1.386612546103082	Drama	4.561233710473552	None	Average	Stable
+female	Associate’s Degree	incomplete	67	62	9.442120097854408	Debate	6.306635191675825	Gaming	Good	Stable
+male	Uneducated	incomplete	67	67	6.868806845428522	Debate	7.497797644278359	Gaming	Poor	Anxious
+male	Bachelor’s Degree	completed	74	74	7.136025594629119	Dance	7.657640789406477	Social Media	Good	Stable
+female	Uneducated	incomplete	91	89	7.069926980607557	incomplete	9.726539210724985	Research	Poor	Stable
+male	High School	completed	44	47	7.362937815302571	Art	9.056224861180151	Gaming	Poor	Stable
+male	Associate’s Degree	completed	86	90	9.0461518841907	Drama	7.859478001134664	Online Classes	Poor	Stressed
+female	Bachelor’s Degree	incomplete	67	72	1.5745879029520349	Debate	4.746378820363406	Research	Good	Stable
+female	Bachelor’s Degree	incomplete	100	100	5.409636688024514	Art	7.129015097371942	Gaming	Poor	Anxious
+male	Bachelor’s Degree	completed	63	64	6.966323032738323	Debate	5.463470076917539	None	Good	Stable
+female	Associate’s Degree	incomplete	76	70	0.8796116796546394	incomplete	7.994318939825273	Social Media	Average	Anxious
+female	Master’s Degree	incomplete	64	72	4.5720560394444885	Debate	4.718710963131409	Social Media	Average	Stressed
+female	High School	completed	89	98	8.14321237662761	incomplete	5.791076672900649	Research	Good	Stressed
+male	Uneducated	incomplete	55	49	3.4995749626292936	Debate	7.585177355520356	Online Classes	Average	Stressed
+male	High School	incomplete	53	47	6.31134367485632	Dance	9.913174060844849	Streaming	Average	Anxious
+female	Bachelor’s Degree	incomplete	58	54	1.9101401264247408	Art	4.269642317023028	Social Media	Poor	Stable
+female	Some College	completed	100	100	4.3243545511273656	Sports	6.037035625853992	Online Classes	Average	Stressed
+male	Master’s Degree	incomplete	77	74	5.895785802498482	Debate	4.550240202448778	Streaming	Good	Stressed
+female	Uneducated	incomplete	85	82	7.910663498172844	Art	4.787132182217112	Streaming	Poor	Stable
+female	Some College	incomplete	82	79	0.3942480157954053	incomplete	8.732003093713425	Gaming	Average	Anxious
+female	Master’s Degree	incomplete	63	61	3.723177471907122	Art	9.922498942125072	Streaming	Average	Stressed
+female	Master’s Degree	incomplete	69	65	3.8790862275444393	Sports	9.208799760271358	Streaming	Average	Anxious
+female	High School	completed	92	89	7.742364938906629	Sports	8.168286279905633	Gaming	Average	Anxious
+male	Uneducated	completed	89	92	9.968400158149448	Debate	7.126221825671906	Streaming	Poor	Stable
+female	Associate’s Degree	completed	93	93	3.601747912835256	incomplete	5.635632793305229	Online Classes	Good	Stable
+male	Some College	incomplete	57	56	8.08127592688121	Dance	4.636133798921736	Streaming	Average	Stressed
+male	Master’s Degree	incomplete	80	73	0.318602802455149	Drama	5.731203664859093	Social Media	Poor	Stable
+female	Uneducated	incomplete	95	86	2.8498545440647263	Debate	8.378341681913202	Research	Average	Anxious
+male	Bachelor’s Degree	incomplete	68	67	1.5315679326522025	Drama	5.239096816806249	Social Media	Average	Stable
+male	Associate’s Degree	completed	77	74	0.2705693441975021	Music	4.290038293737039	Online Classes	Good	Anxious
+male	High School	incomplete	82	74	8.096210375568706	incomplete	8.079479986776327	Streaming	Average	Stable
+female	Some College	incomplete	49	51	5.785902996812128	Dance	5.612202553827414	Research	Poor	Anxious
+male	Some College	incomplete	84	82	6.772014685942553	incomplete	9.911471887240848	Social Media	Poor	Stable
+male	Uneducated	completed	37	40	7.080225219152444	incomplete	5.212933425395573	Online Classes	Average	Stable
+male	High School	completed	74	70	1.2895716473260357	Sports	5.20190492434265	Online Classes	Poor	Anxious
+female	Bachelor’s Degree	completed	81	84	7.431584312191578	Sports	8.974049843094772	None	Average	Anxious
+male	High School	completed	79	75	2.1084497221661938	Drama	4.475016635304534	Gaming	Good	Stable
+male	Some College	incomplete	55	48	3.125124214108004	incomplete	7.939046602919417	Gaming	Poor	Stressed
+male	High School	completed	54	41	4.344446755769314	Drama	6.400331782002165	Streaming	Poor	Stressed
+male	Some College	incomplete	55	56	5.177358528890363	Drama	6.259740972456767	Online Classes	Good	Anxious
+female	Some College	incomplete	66	67	7.380157095033856	Debate	9.131092046546518	Online Classes	Average	Stable
+male	Some College	completed	61	69	8.977492571122664	Sports	9.53096035521428	Online Classes	Poor	Stable
+female	Uneducated	incomplete	72	71	0.3611416610557749	Art	7.07892218427242	Research	Poor	Stable
+female	Uneducated	incomplete	62	64	2.06270201848342	incomplete	9.939084462574009	Research	Average	Anxious
+female	High School	completed	55	54	5.736217079378315	Sports	4.671911728527204	Online Classes	Poor	Stable
+male	Associate’s Degree	incomplete	43	47	2.6594125875344	Drama	9.031452072445065	Gaming	Average	Anxious
+male	Uneducated	incomplete	73	78	0.3883298529602241	incomplete	7.591979903885827	Streaming	Good	Stressed
+female	High School	incomplete	39	33	4.400545831361946	Drama	9.28025782529975	Research	Average	Stressed
+male	High School	incomplete	84	75	9.03028917261817	Debate	5.117150423550042	Streaming	Average	Stressed
+male	Uneducated	incomplete	68	66	7.401098708279515	Sports	9.1114172734079	Social Media	Average	Stable
+female	Uneducated	completed	75	81	0.5190708773615393	Drama	5.793158945952913	Streaming	Good	Stable
+male	Master’s Degree	completed	100	93	0.7408196913065501	Dance	5.008861659069514	None	Poor	Anxious
+male	Associate’s Degree	completed	67	69	2.323563988062113	Sports	6.375553713429722	Online Classes	Poor	Stressed
+male	Associate’s Degree	incomplete	67	68	4.599511489352185	Debate	4.915338879778531	Online Classes	Poor	Stable
+female	Bachelor’s Degree	completed	70	66	6.027345675264294	Debate	5.561393778460397	Social Media	Good	Stable
+male	Master’s Degree	incomplete	49	47	4.722661323163157	Music	5.075185607802958	Streaming	Average	Stressed
+male	Some College	incomplete	67	61	2.86948501479258	Art	9.2909635923519	Social Media	Poor	Anxious
+female	High School	completed	89	88	7.740102783556329	Dance	4.326994982369204	Social Media	Average	Anxious
+female	Some College	completed	74	78	1.3564668235953647	Music	9.617083261270452	Research	Average	Stressed
+male	Master’s Degree	incomplete	60	60	8.353529278636579	Dance	5.019860733414103	Social Media	Good	Stable
+female	Some College	completed	86	87	3.1071228215251487	Debate	5.430238897951275	Social Media	Average	Stressed
+male	Uneducated	incomplete	62	64	4.512458475964171	Debate	4.374695669478059	None	Good	Stable
+male	Master’s Degree	completed	78	74	9.682571118285546	Sports	4.541455026651295	Streaming	Poor	Anxious
+female	Uneducated	completed	88	85	9.070705835371076	Dance	9.457425401197243	Research	Poor	Anxious
+male	High School	incomplete	53	52	4.305046720407781	incomplete	5.736940608530904	Research	Average	Stable
+male	Bachelor’s Degree	incomplete	53	49	9.388344175716671	incomplete	9.935870998673668	Social Media	Poor	Stable
+female	Bachelor’s Degree	incomplete	92	91	1.094968678489946	Debate	4.344701859581784	Gaming	Poor	Stressed
+female	Associate’s Degree	completed	100	100	7.636126040808034	Dance	8.002391092148581	Research	Good	Stable
+male	Master’s Degree	completed	51	51	5.69887007245425	Debate	5.919000692673071	Gaming	Average	Stable
+female	High School	completed	76	78	4.639800009867956	Drama	9.070382274984096	Gaming	Poor	Stable
+female	Master’s Degree	completed	83	78	7.58636751708446	Dance	7.11913713269581	None	Good	Stressed
+female	Some College	completed	75	70	5.741010797775844	Sports	8.739398807725042	Research	Average	Stressed
+male	High School	completed	73	74	9.91635956036205	Music	7.1558696253834295	Social Media	Poor	Anxious
+male	Uneducated	incomplete	88	78	2.1460768848373704	Sports	9.27697318887219	Streaming	Good	Anxious
+female	Associate’s Degree	incomplete	86	81	7.555264134113702	Music	6.785884922019707	Gaming	Good	Anxious
+female	High School	incomplete	67	70	8.15108697137924	incomplete	7.66661445746498	Social Media	Poor	Anxious
+female	Some College	completed	51	54	7.851240335745152	Art	8.444062262214961	None	Good	Stable
+female	High School	completed	91	87	5.62688147228822	Drama	6.010409665801287	Gaming	Good	Stressed
+female	Some College	completed	54	58	1.6029673614103834	Debate	4.776444766983346	Online Classes	Average	Stable
+female	Master’s Degree	completed	77	77	5.041695939356687	Music	7.5332923978211825	Streaming	Good	Stressed
+female	Uneducated	completed	70	62	5.35544656052007	Debate	5.796041500932248	Gaming	Good	Stressed
+female	Bachelor’s Degree	completed	100	100	8.409004387520376	Sports	4.342746664784682	Social Media	Poor	Stable
+male	High School	completed	68	75	4.566145968810354	Art	6.762409549796642	Online Classes	Good	Stable
+female	Uneducated	incomplete	64	66	5.856125368262544	incomplete	5.393514470144192	Research	Poor	Anxious
+female	Associate’s Degree	incomplete	50	47	2.6498464829881927	incomplete	6.397121008188777	Gaming	Poor	Anxious
+female	Master’s Degree	incomplete	69	70	3.5086858840612543	Dance	4.886479126500205	Online Classes	Average	Stable
+male	High School	completed	52	49	6.475435125869158	incomplete	7.771932196826956	Streaming	Good	Stressed
+male	High School	completed	67	65	9.907846325070512	Drama	8.731576435351656	Streaming	Poor	Anxious
+male	Bachelor’s Degree	incomplete	76	65	1.9572518266242445	Art	8.608776090870712	Online Classes	Poor	Stressed
+male	High School	completed	66	68	7.916913691593056	Drama	5.205445293107403	None	Good	Stressed
+male	Uneducated	incomplete	52	45	4.501102480801484	Art	4.760929914607379	None	Good	Stressed
+female	Master’s Degree	incomplete	88	87	4.899440456726985	incomplete	8.794973092479566	Research	Good	Stressed
+female	High School	incomplete	65	69	6.887126484730796	Drama	4.549035198937084	Online Classes	Good	Stable
+male	Bachelor’s Degree	completed	83	79	4.417348618834881	incomplete	8.990208447942218	Research	Poor	Stressed
+female	Some College	incomplete	64	66	8.97969092868086	Music	6.863393253152729	Gaming	Average	Anxious
+male	Associate’s Degree	completed	62	62	1.2437201522064725	Sports	9.116560873875136	Gaming	Good	Stressed
+female	Associate’s Degree	completed	84	85	2.2644739904969944	incomplete	7.20174616960656	Gaming	Average	Stressed
+male	Bachelor’s Degree	incomplete	55	52	6.692698996642593	Sports	5.862083352229838	Online Classes	Good	Stressed
+male	Uneducated	completed	69	65	6.714596676088816	Dance	5.463881309553641	Streaming	Poor	Anxious
+male	Some College	incomplete	56	51	9.31406389269628	incomplete	9.254264274960285	Research	Good	Stable
+female	High School	incomplete	53	55	3.62085540364838	Sports	4.168766564118293	Streaming	Good	Anxious
+female	Associate’s Degree	incomplete	79	76	3.213428530434582	incomplete	5.594116570691218	Gaming	Average	Stressed
+female	Associate’s Degree	completed	84	86	9.86052423089683	Debate	7.85147537249519	Online Classes	Average	Stressed
+female	Uneducated	incomplete	81	77	2.746468324171296	Debate	9.64095095011361	Research	Good	Stable
+male	Uneducated	incomplete	77	69	3.1267620944015877	Sports	8.625256468262158	Research	Good	Stable
+female	Uneducated	incomplete	69	68	7.119752663516131	Dance	6.157020059243006	Streaming	Good	Anxious
+male	Associate’s Degree	incomplete	41	42	7.815872178325365	Music	9.102707273258524	Online Classes	Good	Stable
+male	Associate’s Degree	completed	71	78	0.2350345220660255	Music	7.999203403058103	None	Good	Anxious
+male	Associate’s Degree	incomplete	62	62	2.541102782171385	incomplete	6.242083750625319	Gaming	Good	Stressed
+male	High School	completed	80	76	1.139800863310776	Art	4.228744165998066	Streaming	Poor	Anxious
+female	Uneducated	incomplete	81	76	7.787695290097195	Debate	8.80258904165721	Online Classes	Poor	Anxious
+female	Bachelor’s Degree	incomplete	61	66	5.449584594256615	Dance	5.44644806244779	Streaming	Good	Stable
+male	High School	completed	79	79	5.928893778573396	incomplete	5.160457350213165	Research	Average	Stressed
+male	Uneducated	incomplete	28	27	8.811368521413259	Drama	8.053848292471283	Gaming	Average	Stressed
+female	Uneducated	incomplete	62	60	1.8626211890801716	Dance	6.021548846387715	None	Good	Anxious
+male	Uneducated	completed	51	56	8.657422093534938	Art	8.702976110491113	None	Average	Stressed
+male	Uneducated	completed	91	81	1.453160308925434	Art	6.378828216066895	Research	Average	Stable
+male	Bachelor’s Degree	completed	83	75	6.160154228028373	Dance	9.490158231112623	Social Media	Good	Stable
+female	Associate’s Degree	completed	86	88	1.0696645378169	Drama	9.572159946659234	None	Average	Stable
+female	Bachelor’s Degree	incomplete	42	39	3.435871143	incomplete	7.267457915235117	Research	Average	Anxious
+male	Bachelor’s Degree	incomplete	77	70	9.971594047875012	incomplete	8.681138399674898	Online Classes	Average	Anxious
+male	Uneducated	completed	56	56	5.146810087462136	Dance	7.243849608117966	Social Media	Poor	Stressed
+female	Bachelor’s Degree	completed	68	74	6.823892798076637	Dance	9.119363118849847	Research	Average	Stressed
+male	Some College	incomplete	85	73	9.461125566429448	incomplete	6.468192571377211	Gaming	Good	Stressed
+female	Bachelor’s Degree	incomplete	65	62	8.781140377199101	Art	8.84648019051189	Streaming	Good	Stressed
+male	Bachelor’s Degree	incomplete	80	75	6.5420784636307525	Sports	6.247119911411643	Gaming	Poor	Stressed
+female	Bachelor’s Degree	completed	66	73	9.39356627487799	Sports	9.484150738312607	Online Classes	Good	Stable
+female	Associate’s Degree	incomplete	56	54	8.579727781660782	Debate	9.342408549847631	Streaming	Average	Anxious
+female	Associate’s Degree	incomplete	72	71	7.011168566719716	Sports	5.0011287838730745	Gaming	Good	Anxious
+male	Associate’s Degree	incomplete	50	54	9.95023390486272	Drama	8.435943038173956	Online Classes	Good	Anxious
+male	Uneducated	incomplete	72	64	3.865576786938952	Art	7.652110471556215	Online Classes	Good	Stable
+female	High School	completed	95	94	7.951223244854092	Drama	8.975086102025742	Social Media	Average	Stable
+male	Uneducated	incomplete	64	66	4.031157178863207	Dance	7.442578885742239	Gaming	Good	Anxious
+male	High School	incomplete	43	42	1.9132631575383183	Art	4.580988054075575	Online Classes	Poor	Stable
+female	Master’s Degree	incomplete	86	83	6.610029579277867	Art	9.061802939938955	Research	Average	Stressed
+male	Some College	incomplete	87	78	3.5954215992054186	Debate	4.225093073504439	Online Classes	Average	Stressed
+male	Master’s Degree	completed	82	84	6.313140732355862	Debate	8.76711727004735	None	Poor	Stressed
+male	High School	incomplete	75	77	1.5098582125802484	Debate	9.557331187962472	Streaming	Poor	Anxious
+male	Associate’s Degree	incomplete	66	67	6.913383115003022	Art	5.553469608021908	Online Classes	Average	Stable
+female	Uneducated	completed	60	74	4.672657948875735	incomplete	4.895835507526764	Streaming	Average	Stable
+male	Master’s Degree	incomplete	52	51	6.525079533391783	Art	9.618456363636552	Gaming	Poor	Stable
+male	Uneducated	incomplete	80	80	9.177596952066686	Sports	7.612395518035187	None	Average	Stressed
+male	Associate’s Degree	completed	68	66	3.6813673076974727	Music	9.046152657739766	Social Media	Poor	Stressed
+female	High School	incomplete	83	83	5.034100023698708	Drama	4.685561953943355	Online Classes	Good	Stable
+female	Uneducated	incomplete	52	55	9.883787159563395	Music	8.546087226583978	Social Media	Poor	Anxious
+male	High School	incomplete	51	43	0.8872609699449674	incomplete	4.952011876233134	Streaming	Poor	Anxious
+male	High School	incomplete	74	69	6.756036692582459	Dance	7.8181794832111	Social Media	Good	Anxious
+male	Bachelor’s Degree	incomplete	76	71	9.463732596209873	Drama	5.9446972551420405	Online Classes	Average	Anxious
+male	Some College	incomplete	76	74	5.299466837018438	Debate	6.012510968263165	Streaming	Poor	Anxious
+female	Bachelor’s Degree	completed	70	68	7.608638853259824	Music	6.075497460872652	Online Classes	Poor	Anxious
+female	Master’s Degree	incomplete	64	62	7.675843036220748	incomplete	4.264435884296088	Gaming	Average	Anxious
+male	Associate’s Degree	incomplete	60	53	0.7065560513348279	Drama	6.057618285821629	Research	Poor	Anxious
+male	Bachelor’s Degree	completed	49	49	7.4756733189028735	Debate	8.604057805858638	Research	Good	Anxious
+female	Associate’s Degree	incomplete	83	83	9.058589252305357	Debate	4.342585070170881	None	Good	Anxious
+female	Associate’s Degree	completed	70	70	9.70405523573924	Sports	9.990284022296382	Social Media	Average	Anxious
+male	Associate’s Degree	incomplete	80	72	6.264701609788265	Art	6.206781774372956	Gaming	Poor	Anxious
+male	Associate’s Degree	incomplete	52	52	5.79632008663645	Art	9.144277861192757	Gaming	Poor	Stable
+female	Associate’s Degree	incomplete	73	70	1.0974071501381133	Music	9.999716965774956	Gaming	Good	Stressed
+female	Master’s Degree	incomplete	73	68	4.738626277912791	Art	7.8455014519328765	Research	Good	Stable
+male	Uneducated	completed	77	77	6.5058824613228	Drama	9.660658299237904	Streaming	Poor	Stressed
+female	Bachelor’s Degree	incomplete	75	78	9.996304169651498	Drama	6.822516357132656	Social Media	Good	Stressed
+female	High School	completed	81	81	9.170960726240573	Sports	7.866415155492675	Research	Poor	Stable
+female	Master’s Degree	completed	79	77	6.504060839869447	incomplete	9.554125523305142	Gaming	Average	Stable
+male	Some College	completed	79	78	9.811837047584111	Debate	9.11961211192607	Streaming	Good	Stable
+female	Uneducated	incomplete	50	51	5.494737219509283	incomplete	7.7770635829518895	None	Poor	Anxious
+female	Bachelor’s Degree	incomplete	93	90	2.540015686894445	incomplete	8.458418540827683	Online Classes	Poor	Stable
+male	Associate’s Degree	incomplete	73	68	1.6785549419495238	Debate	6.964568998901317	Gaming	Average	Stable
+male	High School	incomplete	42	41	7.734218326097821	Drama	5.433945154847162	Gaming	Good	Stressed
+female	Master’s Degree	incomplete	75	81	3.3261080261443587	Drama	8.882269835695169	None	Poor	Anxious
+female	Some College	incomplete	72	77	3.59575275011631	Sports	5.885663610044908	Streaming	Poor	Anxious
+female	Associate’s Degree	completed	92	95	9.33289204377229	Music	6.580696336715267	None	Poor	Stable
+female	Some College	incomplete	76	70	8.042725441000318	Art	4.230377333868974	Research	Good	Anxious
+male	Uneducated	incomplete	63	61	7.505205421795821	Art	5.438895610210094	None	Good	Stressed
+male	Some College	incomplete	49	42	6.707687301905888	Art	8.948139272796865	None	Average	Stressed
+female	High School	incomplete	53	58	1.8220075439909755	Dance	8.828892662711388	Streaming	Good	Stressed
+female	Master’s Degree	incomplete	70	71	0.4300963007944258	Debate	7.660458235725278	Gaming	Average	Stressed
+male	High School	completed	85	76	1.2866456256331715	Debate	6.115083552842901	Streaming	Average	Stressed
+male	Master’s Degree	incomplete	78	73	5.862500726637855	Art	8.726499519248765	Social Media	Poor	Stable
+female	Uneducated	completed	92	93	9.30682894418828	incomplete	9.753669188182451	Research	Poor	Stable
+female	Associate’s Degree	completed	63	75	5.1050756754212125	Art	7.374606311229279	Research	Good	Stable
+female	Bachelor’s Degree	incomplete	86	80	1.9777063417448928	Drama	4.081320844286907	Research	Good	Stable
+male	High School	incomplete	56	57	4.56366808945837	Dance	4.236837003750418	Social Media	Average	Stable
+male	Associate’s Degree	incomplete	52	42	7.801556169412813	Art	7.366839013355836	Gaming	Poor	Stressed
+male	Associate’s Degree	incomplete	48	46	1.2056796131557423	Music	5.310143027757045	Gaming	Average	Stressed
+female	Master’s Degree	incomplete	79	84	4.481613122011706	Debate	6.636733604282467	Online Classes	Average	Stable
+female	Uneducated	completed	78	78	1.4405290940796756	Dance	7.650349735442292	Online Classes	Poor	Anxious
+female	Bachelor’s Degree	incomplete	46	46	0.4951783293565037	Sports	8.51823529856338	Social Media	Average	Stable
+male	Master’s Degree	completed	82	82	4.20030365723618	Drama	7.173349139473583	None	Good	Stable
+male	Some College	completed	82	88	9.91190703038538	Drama	9.802881619947968	None	Average	Anxious
+female	Associate’s Degree	incomplete	89	82	6.908736156660833	Drama	7.579268636543976	Research	Average	Stressed
+male	Master’s Degree	incomplete	75	76	4.176493181488974	Sports	6.350940285504772	Research	Poor	Stressed
+male	Master’s Degree	completed	76	77	9.71269424690734	Music	9.455566322494244	Online Classes	Average	Stable
+male	High School	incomplete	70	68	9.539510111754833	Debate	8.000394825428405	Gaming	Average	Stressed
+male	Master’s Degree	incomplete	73	70	1.161643173737679	Sports	9.72583101037056	None	Poor	Stressed
+male	Bachelor’s Degree	completed	60	57	0.6383548064607092	Drama	6.550788678187702	Research	Poor	Stressed
+female	Some College	incomplete	73	75	9.680123361143751	Music	8.235578176087751	Online Classes	Good	Anxious
+male	Bachelor’s Degree	completed	77	80	2.274911575828382	Sports	5.107726974165016	Gaming	Good	Stressed
+male	Uneducated	incomplete	62	60	8.662609051307314	Music	5.218902037022973	None	Average	Stable
+male	Bachelor’s Degree	completed	41	43	7.92642678245361	Drama	9.461039051941428	Online Classes	Good	Stressed
+male	Master’s Degree	completed	74	68	4.387075244409272	Debate	5.292972697479958	Gaming	Good	Stressed
+male	Master’s Degree	completed	46	50	1.4861882488522071	Art	6.498780310801804	Online Classes	Good	Stable
+male	High School	incomplete	87	75	8.655624913917707	Music	4.228651673918226	Social Media	Average	Stressed
+male	Bachelor’s Degree	completed	78	81	4.921795504860077	Music	4.951525119504166	Research	Average	Stable
+male	Some College	incomplete	54	52	6.608682563825442	Sports	7.882311050550724	Social Media	Average	Stable
+female	Associate’s Degree	completed	84	81	7.30928100176012	incomplete	4.618281926853578	Research	Average	Stable
+male	Associate’s Degree	incomplete	76	64	1.4536073534378025	Music	8.186330181272586	Online Classes	Average	Stressed
+female	Associate’s Degree	completed	75	83	4.583079667472591	Music	4.128540403909646	Online Classes	Good	Anxious
+male	High School	incomplete	67	69	1.5173536748787908	Music	5.321140289346792	None	Average	Stable
+male	Uneducated	completed	87	81	9.5732116699787	Drama	9.098254239985398	None	Good	Anxious
+male	Uneducated	incomplete	52	44	8.258082235754467	Music	5.163555533611208	Social Media	Average	Stressed
+female	Associate’s Degree	incomplete	71	67	9.730728362996333	Dance	8.279375731611395	None	Average	Anxious
+female	High School	incomplete	57	52	6.289397851835768	Sports	9.710486956175512	Online Classes	Poor	Stable
+female	Master’s Degree	incomplete	76	80	3.961661057508745	incomplete	7.359249594978984	Research	Average	Stable
+male	Bachelor’s Degree	incomplete	60	57	8.009287392106085	Music	9.815089159142282	Social Media	Poor	Stressed
+male	Some College	completed	61	68	8.710787986766402	Art	7.236222075620894	Streaming	Poor	Stressed
+female	High School	completed	67	69	3.881146409544415	Drama	9.270496850403385	Social Media	Good	Stressed
+female	Some College	completed	64	75	9.298020844552676	Art	5.956695565108378	Streaming	Poor	Stable
+male	High School	incomplete	66	65	0.3301342310669941	Art	8.868213842329132	Gaming	Poor	Stable
+female	Some College	completed	82	91	5.421467530433908	Art	7.154031827044991	Online Classes	Average	Stressed
+male	Master’s Degree	incomplete	72	78	8.106539716349127	Sports	6.396269983386508	Research	Poor	Stressed
+male	Associate’s Degree	incomplete	71	69	0.5562870129442932	incomplete	4.581590312295576	Streaming	Good	Stressed
+female	Uneducated	incomplete	65	63	0.0492175105766823	Drama	4.553526112545537	Gaming	Average	Anxious
+female	High School	completed	79	84	7.108306239981543	Art	9.899825552501406	Online Classes	Poor	Stressed
+female	High School	incomplete	86	79	4.268790693402567	Drama	7.594418475072333	Gaming	Good	Stressed
+female	Uneducated	incomplete	81	80	3.4425152988153407	Debate	7.826973035419708	Research	Good	Anxious
+female	Some College	incomplete	53	53	3.9205093780435183	Dance	5.967800820760502	Social Media	Poor	Stressed
+female	Uneducated	incomplete	46	43	0.1578833152474357	incomplete	4.896451949356355	Gaming	Average	Stressed
+female	Master’s Degree	incomplete	90	94	2.0484089082616896	Sports	9.068425780233154	Research	Average	Stable
+male	Master’s Degree	incomplete	61	62	6.4793691397171695	Debate	9.74507856202256	Social Media	Poor	Stable
+male	Uneducated	incomplete	23	19	8.138572018127435	Music	7.999128827103312	Research	Good	Anxious
+male	Bachelor’s Degree	completed	75	77	6.18509453640829	Dance	9.192119252813294	None	Average	Stable
+female	Master’s Degree	incomplete	55	51	7.657197764494779	Dance	5.554187328792638	Social Media	Good	Stressed
+male	High School	incomplete	60	61	6.897188092753153	incomplete	8.637064448088635	None	Poor	Stable
+male	Uneducated	incomplete	37	35	7.803171500362818	Music	7.865188832256668	Streaming	Poor	Stable
+male	Associate’s Degree	completed	56	53	8.486273300674403	Music	8.356955013762065	Gaming	Average	Stable
+male	Associate’s Degree	incomplete	78	81	7.551811881145913	Drama	9.516652227427103	Research	Average	Anxious
+female	Some College	incomplete	93	95	3.882038754449386	Music	5.585174523862706	Research	Average	Anxious
+female	Uneducated	incomplete	68	66	0.2941739982227132	Music	4.832093360187743	Online Classes	Good	Stable
+male	Bachelor’s Degree	completed	70	69	8.491188287002046	Debate	9.635588949364646	Gaming	Good	Stressed
+male	Some College	incomplete	51	43	6.3930955347430976	Debate	5.294932207537046	None	Good	Stable
+female	Bachelor’s Degree	incomplete	38	27	7.797394352523758	Drama	5.111279061215162	Gaming	Average	Anxious
+female	Bachelor’s Degree	completed	55	60	5.889197463384502	incomplete	6.148348646819745	Streaming	Average	Anxious
+male	Uneducated	incomplete	61	52	6.992215657331928	Sports	5.107953920732496	Online Classes	Poor	Stressed
+female	High School	incomplete	73	63	0.1152244383925527	Art	9.354499187068452	None	Average	Stressed
+female	Associate’s Degree	completed	76	74	5.38069304961504	Sports	9.6628541877702	Streaming	Poor	Stable
+male	Some College	completed	72	67	3.6615422882580697	Dance	9.841053420907368	None	Average	Anxious
+male	Associate’s Degree	incomplete	73	67	6.827690266813785	Art	9.941079037902686	Online Classes	Poor	Stressed
+female	Associate’s Degree	incomplete	80	75	0.8670350397232229	Drama	7.109844822843188	Gaming	Good	Stable
+male	Uneducated	incomplete	61	57	9.915071884734855	Music	6.4877013133223045	None	Good	Stable
+female	Master’s Degree	completed	94	95	5.062794679349532	Dance	5.334552923508187	Gaming	Good	Stressed
+male	Bachelor’s Degree	incomplete	74	66	2.721001703968703	Debate	4.388838545601464	Gaming	Poor	Anxious
+male	Some College	incomplete	74	76	9.818245874099151	Sports	7.5218051225647775	Gaming	Poor	Stressed
+female	Some College	incomplete	65	69	7.189243591370143	Sports	4.512231699311456	None	Good	Stable
+male	Some College	incomplete	57	52	7.541152455917304	incomplete	8.959560624093447	Streaming	Poor	Anxious
+female	Some College	completed	78	80	9.89632310308739	Dance	6.606096413364903	Gaming	Good	Stable
+female	Associate’s Degree	incomplete	58	57	8.583652319020551	Dance	8.411343778059216	Research	Average	Stressed
+female	Bachelor’s Degree	incomplete	71	70	7.610192059634471	Art	8.451761777828615	Streaming	Average	Anxious
+female	Bachelor’s Degree	incomplete	72	70	9.63390525486361	Dance	6.387130967013659	Social Media	Poor	Anxious
+male	High School	incomplete	61	61	7.232363285667196	Debate	8.415795443432227	Research	Average	Stable
+female	Bachelor’s Degree	completed	66	69	9.71412472957331	incomplete	4.328897968274972	None	Good	Anxious
+male	Bachelor’s Degree	incomplete	62	61	4.9135591054992345	Debate	8.731650601169287	Gaming	Poor	Stable
+female	High School	incomplete	90	89	7.726722620607786	Debate	5.639169940045892	Streaming	Poor	Stressed
+female	Associate’s Degree	incomplete	62	59	9.893125160463224	Art	6.673992049275703	Social Media	Average	Stressed
+male	Master’s Degree	completed	84	78	1.8508329763029017	Drama	9.73869100844344	Gaming	Poor	Stable
+female	Uneducated	incomplete	58	58	1.302220856660491	Music	5.481877604710944	Research	Average	Stable
+female	Associate’s Degree	incomplete	34	32	4.193673176723008	incomplete	6.8859193051113845	Gaming	Average	Stable
+male	High School	incomplete	60	58	2.611560028119314	incomplete	7.923291677471631	Social Media	Good	Anxious
+male	Bachelor’s Degree	completed	58	60	3.473167695200715	Drama	7.052703513321344	Gaming	Poor	Anxious
+male	Some College	completed	58	53	9.883044705144613	Music	9.230914268156836	None	Average	Stable
+male	Bachelor’s Degree	incomplete	66	61	1.8921313234481352	Debate	5.485294242852382	Research	Good	Stable
+female	Bachelor’s Degree	incomplete	64	58	7.115779553682495	Debate	4.437189691008143	None	Average	Anxious
+female	High School	incomplete	84	85	3.469059124090481	Sports	8.861492919220376	Social Media	Average	Stable
+male	Associate’s Degree	incomplete	77	71	3.692795277709677	Drama	6.711913827830341	Online Classes	Poor	Stable
+female	Uneducated	completed	73	70	7.427315666208026	Music	6.241656800537555	Streaming	Average	Anxious
+male	Master’s Degree	incomplete	74	72	3.205536031368026	Debate	8.194421376350274	Streaming	Good	Anxious
+female	Uneducated	completed	97	96	2.9731942914941434	Art	9.809800564358213	Online Classes	Average	Stressed
+female	Master’s Degree	incomplete	70	73	6.4459477000208505	Dance	7.311811773237347	Gaming	Poor	Stressed
+male	Master’s Degree	incomplete	43	41	4.679886301948098	incomplete	9.972024595681374	None	Poor	Stressed
+female	High School	incomplete	90	82	1.0329841675492235	incomplete	4.352444898702198	Online Classes	Good	Anxious
+female	Uneducated	completed	95	100	8.78430619204883	Sports	9.87015773175698	Streaming	Poor	Stressed
+female	Associate’s Degree	incomplete	83	77	1.2309954016413949	Sports	7.077177648139639	Research	Average	Anxious
+male	Associate’s Degree	incomplete	64	62	3.08933661605596	Debate	7.674926881466106	Social Media	Poor	Anxious
+female	Associate’s Degree	incomplete	86	83	4.2396370926812175	Debate	4.840392508296858	Online Classes	Average	Anxious
+male	Uneducated	completed	100	95	5.21017215024714	incomplete	7.6333768667469455	Research	Poor	Anxious
+male	Master’s Degree	incomplete	81	71	6.006806711926402	Dance	7.5767864357299715	Gaming	Good	Stressed
+female	Associate’s Degree	incomplete	49	45	6.776182356986977	Dance	4.8132365283372165	Online Classes	Poor	Stressed
+female	Bachelor’s Degree	incomplete	43	43	0.9106348071788396	incomplete	8.984424880464534	None	Good	Stable
+female	Associate’s Degree	incomplete	76	75	9.76180690597854	Drama	7.830854906248591	Streaming	Average	Stressed
+female	Associate’s Degree	incomplete	73	70	3.279987408020829	Drama	6.228843944451544	Gaming	Average	Anxious
+female	Bachelor’s Degree	incomplete	78	67	1.6304380097137705	Music	8.05494926457894	Research	Poor	Stable
+female	Bachelor’s Degree	incomplete	64	64	5.993737948348047	Debate	6.218648184226823	Streaming	Good	Anxious
+male	Master’s Degree	incomplete	70	75	9.893799372100432	Debate	6.80505804486042	Research	Good	Stable
+male	Some College	completed	67	59	5.0864089589547925	incomplete	5.710958323142798	Streaming	Poor	Stable
+female	Bachelor’s Degree	incomplete	68	77	9.5168889407349	incomplete	6.632374849627388	Social Media	Average	Anxious
+male	Some College	incomplete	67	67	8.448375205905577	Music	8.12978376690398	Gaming	Poor	Anxious
+male	Associate’s Degree	completed	54	56	4.597292643846894	Music	4.142474495735917	Social Media	Average	Stressed
+female	High School	completed	74	77	1.9507501379101144	Music	5.166732887825068	Online Classes	Average	Stressed
+male	High School	incomplete	45	41	5.724025790067185	Debate	9.552300488589406	Online Classes	Poor	Anxious
+female	Some College	incomplete	67	63	7.439869404316372	Art	9.866569980262582	Research	Average	Stressed
+female	High School	incomplete	89	95	8.041739558520565	Dance	8.794519763227035	Social Media	Poor	Stable
+male	Some College	incomplete	63	57	3.606062205985243	incomplete	9.168766854441724	Gaming	Poor	Stressed
+male	Associate’s Degree	incomplete	59	54	2.9429028345150887	Dance	9.761986922245471	Research	Average	Stressed
+female	Bachelor’s Degree	completed	54	67	7.647795282039792	Drama	6.466877707620853	Social Media	Average	Stable
+male	Associate’s Degree	incomplete	43	43	6.537889934789093	Dance	9.633374513228532	Gaming	Poor	Stressed
+female	Uneducated	incomplete	65	55	9.938422322878694	Dance	8.799563096922306	Online Classes	Average	Anxious
+female	Some College	completed	99	100	9.67565297055431	Dance	4.51434878682424	None	Poor	Anxious
+female	Master’s Degree	incomplete	59	62	5.702072007354747	Drama	7.093315636807523	Research	Poor	Anxious
+female	Bachelor’s Degree	incomplete	73	68	6.2538863775106055	Sports	6.651306681593628	None	Good	Stressed
+male	Associate’s Degree	completed	65	63	1.1158623409046042	Debate	9.917809658832407	Online Classes	Average	Anxious
+female	Associate’s Degree	incomplete	80	77	0.7900320625776358	Dance	6.97051085377916	Gaming	Average	Stable
+female	High School	completed	57	56	1.5916714808294008	Drama	5.2250900430447285	Gaming	Good	Anxious
+male	High School	completed	84	85	9.688495099499528	Debate	7.475382997832904	Streaming	Poor	Stable
+female	Associate’s Degree	completed	71	74	3.3835105384345354	Dance	5.030840050024605	Gaming	Poor	Stressed
+male	Bachelor’s Degree	completed	83	78	7.20667719822961	Sports	9.356544023728016	Streaming	Average	Anxious
+male	Associate’s Degree	incomplete	66	60	3.4953529569004727	Drama	4.437072630651517	Gaming	Poor	Stable
+male	High School	completed	67	67	5.364255913680283	Music	6.364394132582211	Streaming	Average	Stable
+female	Some College	completed	72	79	2.160195261394114	Sports	8.775751335148772	Gaming	Good	Anxious
+male	High School	incomplete	73	69	6.247383103780995	Debate	8.051718781104292	Social Media	Average	Anxious
+male	Some College	completed	74	68	0.3175238839469085	Music	5.105301578665804	Streaming	Poor	Stable
+male	Bachelor’s Degree	incomplete	73	67	8.395815526431406	Drama	6.134329809739431	Research	Good	Stressed
+male	Master’s Degree	incomplete	59	62	3.5487040502530687	Dance	5.754913680220966	Online Classes	Average	Anxious
+male	High School	completed	56	54	6.676049248825759	Sports	7.432923581811975	Gaming	Average	Stressed
+female	Uneducated	completed	93	93	0.5429811200129819	Drama	6.9321633337062885	Streaming	Average	Anxious
+female	Uneducated	completed	58	64	1.8639093483810945	Dance	5.813295295926171	None	Average	Stressed
+female	Associate’s Degree	completed	58	67	7.761935869516207	Dance	6.435106034363972	Social Media	Poor	Stable
+female	Some College	completed	85	80	8.446892817833344	Art	4.03319252162766	None	Good	Anxious
+male	Bachelor’s Degree	incomplete	39	34	8.842874912369293	Music	9.709140437465637	Online Classes	Average	Anxious
+female	High School	incomplete	67	62	8.944040870881068	incomplete	9.003614924371682	Online Classes	Good	Stressed
+male	Some College	incomplete	83	86	8.930724123754558	Dance	7.143380718627661	Streaming	Average	Anxious
+male	Master’s Degree	incomplete	71	65	5.123653589675271	Art	7.122313041779702	Social Media	Poor	Stressed
+male	Uneducated	incomplete	59	53	9.745518090613446	incomplete	5.490366378812661	Research	Average	Stressed
+male	Some College	incomplete	63	54	3.413135973930688	Dance	6.023740655304359	Research	Poor	Stable
+male	High School	incomplete	66	59	3.734477662156668	Drama	6.639095786591181	Research	Good	Stable
+female	Bachelor’s Degree	incomplete	72	70	4.106483131814419	Drama	5.691708883198629	Social Media	Poor	Stressed
+male	Associate’s Degree	incomplete	56	55	1.6345041914671763	Drama	6.971212413439114	Streaming	Average	Stable
+female	Master’s Degree	incomplete	59	50	3.0676865456727755	Dance	5.189728212755037	Gaming	Average	Stressed
+male	Master’s Degree	incomplete	66	66	7.932881832338477	Debate	6.858596588144096	Online Classes	Poor	Stable
+male	Associate’s Degree	completed	48	53	0.7561895546586139	Sports	9.891405359601055	Streaming	Good	Stressed
+male	Uneducated	incomplete	68	64	6.562893348089913	Dance	6.400787581968236	Social Media	Poor	Stressed
+male	High School	incomplete	66	73	2.593452347361216	Art	5.996835802827015	Research	Good	Stable
+male	Uneducated	incomplete	56	51	0.2631049316456335	Sports	4.206699517809051	Gaming	Good	Anxious
+male	Master’s Degree	completed	88	82	6.355946318469079	incomplete	4.848398712359492	Social Media	Good	Stable
+female	Master’s Degree	completed	81	79	9.84966785816778	Debate	6.773643526439495	Streaming	Average	Stable
+female	Some College	incomplete	81	80	4.67114857069893	Art	8.015078017811629	Online Classes	Good	Stressed
+female	Some College	incomplete	73	69	6.639467857162179	incomplete	9.76213245001163	Streaming	Good	Anxious
+female	Bachelor’s Degree	incomplete	83	76	3.671811634590119	incomplete	6.571763903571499	Online Classes	Poor	Stressed
+male	Uneducated	incomplete	82	73	8.720558129622036	Debate	9.98954940610841	Research	Good	Anxious
+female	Master’s Degree	completed	74	77	4.052582358205601	Drama	4.8146020204595725	Gaming	Average	Stressed
+male	Associate’s Degree	incomplete	66	60	3.551452238367788	Dance	7.025089426633573	Social Media	Average	Stable
+male	Some College	completed	81	80	2.522657981316171	Dance	9.139134965537089	Online Classes	Poor	Stressed
+male	Bachelor’s Degree	incomplete	46	42	0.7859871702596277	Sports	6.9022540644444685	Social Media	Poor	Anxious
+male	Bachelor’s Degree	incomplete	73	72	7.162865410493625	Music	9.745082349942276	Research	Poor	Stable
+female	Master’s Degree	completed	85	85	9.95260358975587	Dance	9.250489488550304	Online Classes	Poor	Stable
+female	Some College	incomplete	92	97	3.7873802721843166	Dance	4.294420556205625	Gaming	Good	Stressed
+female	Uneducated	incomplete	77	74	2.60853873146346	Music	9.248521023160148	Gaming	Poor	Stable
+male	Associate’s Degree	incomplete	58	49	3.7255361821608535	Art	8.625208083527674	Gaming	Average	Stable
+female	Associate’s Degree	incomplete	61	62	8.509332932641954	Art	5.3472110957234245	Streaming	Poor	Anxious
+male	Bachelor’s Degree	incomplete	56	47	4.464308779914568	Art	4.549558175329553	Online Classes	Poor	Stressed
+female	Some College	incomplete	89	89	7.408629330769621	incomplete	6.184932240837254	Social Media	Poor	Stressed
+male	High School	incomplete	54	48	4.242431069027647	Drama	5.506492616503705	Gaming	Average	Stressed
+female	Associate’s Degree	incomplete	100	100	7.591571655344868	incomplete	7.992104196887322	None	Average	Stable
+male	Master’s Degree	completed	65	68	3.702108925430372	Debate	7.967486932381867	Research	Good	Stressed
+male	Uneducated	incomplete	58	55	0.7270217548757985	Sports	8.569022676757072	Gaming	Poor	Stressed
+male	High School	incomplete	54	45	8.259580151534262	incomplete	5.006033556609054	Social Media	Poor	Anxious
+female	Master’s Degree	incomplete	70	76	4.00499943824277	Music	4.067647222564808	Research	Good	Anxious
+female	Bachelor’s Degree	incomplete	90	91	3.191024430613121	Dance	4.550627248824409	Streaming	Average	Anxious
+male	High School	completed	58	62	2.6424753355528896	Dance	4.874744835137348	Gaming	Good	Stressed
+female	Uneducated	incomplete	87	91	5.893020162486593	Art	6.648263510127823	Social Media	Average	Stable
+female	Uneducated	incomplete	31	38	7.992416876619529	Sports	6.935538294624194	Gaming	Poor	Stressed
+male	Master’s Degree	completed	67	65	2.412215919868542	Drama	8.069312128483176	None	Poor	Anxious
+female	Master’s Degree	completed	88	85	3.673222123351847	Art	4.783243891520453	Streaming	Average	Stressed
+male	Bachelor’s Degree	incomplete	74	76	7.37493488260696	Art	4.720284475141254	Streaming	Poor	Stressed
+female	Associate’s Degree	completed	85	90	2.5927113235179577	Debate	7.470372521882453	Social Media	Poor	Stable
+female	Bachelor’s Degree	incomplete	69	74	8.396701066672241	Debate	7.769719094991713	Gaming	Poor	Stable
+female	Some College	completed	86	84	0.5237913467040056	Sports	9.891736040046748	Research	Average	Anxious
+female	Some College	incomplete	67	61	9.588175974851442	Dance	8.895658462077632	Gaming	Poor	Stressed
+female	Associate’s Degree	completed	90	91	6.010937956234217	Art	7.792980323419184	Gaming	Good	Stable
+female	Bachelor’s Degree	completed	76	83	8.469829151467307	Drama	8.249654154443647	Gaming	Good	Stressed
+male	Uneducated	completed	62	66	9.07841982506519	Dance	6.266066369946282	Online Classes	Poor	Anxious
+male	Associate’s Degree	incomplete	68	72	8.434941474094607	Sports	7.697511101269119	Online Classes	Good	Anxious
+female	Uneducated	incomplete	64	70	1.6816546743483318	Drama	9.823089407	None	Good	Stable
+male	High School	incomplete	71	67	1.1036868462891358	Sports	4.972844479179308	Social Media	Poor	Anxious
+male	Some College	completed	71	68	6.835844841941924	Drama	9.54415950977308	Social Media	Average	Stressed
+female	Some College	incomplete	59	56	6.276505179127164	Debate	9.504557014985116	Online Classes	Average	Stressed
+male	Uneducated	incomplete	68	61	2.1891546195164024	Sports	7.238048792348914	Research	Good	Stressed
+male	Master’s Degree	incomplete	52	46	3.2686713638630227	Sports	9.115871684947386	Social Media	Poor	Stable
+female	Master’s Degree	incomplete	52	54	5.641700415626572	Debate	6.660837542928975	Social Media	Average	Stable
+male	Master’s Degree	incomplete	74	71	7.447583924619408	Music	4.283705188800006	Streaming	Average	Anxious
+male	High School	incomplete	47	56	5.200941081618764	incomplete	5.48668863363519	Streaming	Good	Anxious
+female	Some College	incomplete	75	74	7.737635417853868	Drama	7.912126051831247	Online Classes	Good	Stressed
+male	Uneducated	completed	53	57	3.995853597696909	incomplete	5.359259979696449	Streaming	Good	Stable
+male	Some College	completed	82	82	8.696276400560699	Art	6.6597401480477485	Social Media	Good	Anxious
+female	Associate’s Degree	incomplete	85	76	3.647085591632313	incomplete	4.813844303323403	Social Media	Average	Stable
+female	Uneducated	incomplete	64	70	7.37978150543658	Art	7.948023735680973	Streaming	Average	Anxious
+female	Associate’s Degree	incomplete	83	90	0.5817851038073929	Debate	8.15975853193503	None	Good	Anxious
+female	Master’s Degree	incomplete	88	90	6.334605769774338	incomplete	7.012477707349278	Social Media	Average	Stable
+female	Bachelor’s Degree	incomplete	64	68	0.177424621134673	Dance	8.95668433193997	Streaming	Good	Anxious
+male	Associate’s Degree	completed	64	66	2.588932846523997	Music	8.949216691921823	Social Media	Poor	Stable
+female	High School	incomplete	48	52	6.223584242107467	incomplete	4.800027294776688	Research	Average	Stressed
+female	Master’s Degree	completed	78	76	4.091038419732252	Art	4.198465054555864	Research	Poor	Stressed
+female	Bachelor’s Degree	incomplete	69	68	3.5187891649135694	Drama	5.940417934550961	Research	Good	Stressed
+male	Associate’s Degree	incomplete	71	72	7.219046089438224	Art	7.8145412111998835	None	Average	Stable
+female	Some College	incomplete	79	82	6.743091617720075	Music	9.905230802326567	Online Classes	Average	Stable
+female	Bachelor’s Degree	completed	87	92	7.778762496157011	Sports	8.36599747056838	None	Average	Stressed
+male	Uneducated	incomplete	61	54	9.38303471285094	Art	7.777563910778499	Gaming	Good	Anxious
+female	Associate’s Degree	completed	89	92	5.049894767452081	Dance	5.80168651030278	None	Average	Stressed
+female	Some College	incomplete	59	54	6.82733191063475	Dance	4.863652497173765	None	Average	Stressed
+female	Uneducated	incomplete	82	80	0.4689406336678869	Dance	4.7785975516980495	Research	Average	Anxious
+male	Uneducated	incomplete	70	66	9.054430426408716	Dance	9.225091022362548	Online Classes	Average	Anxious
+male	Bachelor’s Degree	incomplete	59	54	6.844058778369355	Sports	6.198520985860236	None	Good	Stressed
+male	Uneducated	incomplete	78	77	5.797289142933559	incomplete	4.444547105183752	Streaming	Average	Anxious
+female	Master’s Degree	incomplete	92	87	6.475822733718724	Sports	8.469419624337554	Social Media	Good	Stressed
+male	High School	incomplete	71	73	9.814684397688795	Dance	8.845968392079344	Streaming	Good	Stable
+male	Some College	incomplete	50	43	1.3073117501450393	Drama	9.825398714441972	Gaming	Average	Stable
+male	Bachelor’s Degree	incomplete	49	52	2.266718110360091	Sports	8.871364197190324	Streaming	Good	Stressed
+female	Some College	completed	61	62	3.463226735315488	Dance	6.765198013792891	Social Media	Good	Stable
+female	Master’s Degree	completed	97	94	7.685560524984277	Debate	7.724352124310736	None	Average	Stable
+female	Uneducated	completed	87	85	8.00524977204997	Dance	5.269395968367145	Online Classes	Good	Anxious
+female	Master’s Degree	incomplete	89	84	7.134862552705874	Dance	9.677374203430052	None	Average	Stable
+female	Some College	completed	74	73	6.110862217740295	Drama	9.105002050067393	Social Media	Poor	Anxious
+female	Associate’s Degree	completed	78	78	3.859053460112073	Sports	8.806093957494266	None	Poor	Anxious
+female	Associate’s Degree	completed	78	79	1.8003309574706206	Music	4.1793817275168745	None	Poor	Stable
+male	Some College	incomplete	49	52	3.890652572778065	incomplete	9.797882678584742	Streaming	Average	Stable
+female	Associate’s Degree	incomplete	86	84	0.6758418593595183	Sports	5.333198128190399	Research	Poor	Stable
+male	Uneducated	incomplete	58	57	2.7661199735407784	Music	9.12951750776858	Research	Average	Stressed
+male	Master’s Degree	incomplete	59	50	6.989955169045338	Drama	6.498255460077083	Social Media	Good	Stable
+male	Associate’s Degree	completed	52	49	0.2104400553441654	Dance	9.786482393094897	Gaming	Good	Stable
+male	Uneducated	incomplete	60	59	1.738840002352405	Sports	9.649643138410266	None	Poor	Stressed
+male	Uneducated	completed	61	60	9.086525621749296	Dance	8.305162991354958	Streaming	Poor	Stable
+female	Bachelor’s Degree	incomplete	53	43	7.2553685055887325	Dance	7.402045757524985	Online Classes	Good	Anxious
+female	Some College	incomplete	41	47	0.4544018272276828	Art	8.427946753938002	Streaming	Poor	Stable
+female	Bachelor’s Degree	incomplete	74	70	3.219839545691304	Sports	8.19353381345136	Online Classes	Average	Stressed
+female	Master’s Degree	completed	67	73	4.71436839061901	Dance	6.737713594259866	Social Media	Average	Stable
+female	Uneducated	incomplete	54	53	9.629292043170844	Music	9.084683509764949	None	Average	Anxious
+male	Bachelor’s Degree	completed	61	58	5.123292673577242	Art	7.5012880048447315	Gaming	Average	Stressed
+female	High School	completed	88	94	0.0667238440310236	Drama	4.738399165116068	None	Good	Stressed
+male	Some College	completed	69	68	9.733732816441911	Art	9.72092924379733	Research	Good	Stable
+female	Associate’s Degree	completed	83	83	6.144399348323785	Dance	5.560472442627019	Online Classes	Poor	Anxious
+male	Uneducated	completed	60	58	9.667172491448715	Drama	6.76303772887101	Social Media	Poor	Stressed
+female	Bachelor’s Degree	incomplete	66	62	2.320014052397049	Sports	5.594906224519082	None	Poor	Stressed
+male	Master’s Degree	completed	66	71	9.051296374807563	Drama	4.3765137565957	Streaming	Average	Anxious
+male	Uneducated	completed	92	86	7.904760296370944	Drama	6.79926690900185	Online Classes	Poor	Stressed
+male	Associate’s Degree	completed	69	68	3.250837074127864	Music	7.056608323624283	Gaming	Poor	Stressed
+male	Some College	completed	82	80	8.111970767275011	Debate	4.668590095347839	Research	Average	Stable
+female	Uneducated	incomplete	77	79	8.04933869716684	Art	8.147815008723299	Gaming	Average	Stressed
+female	Master’s Degree	incomplete	95	89	0.8663959987726844	Drama	8.654800384257637	Online Classes	Poor	Stable
+female	Associate’s Degree	incomplete	63	66	1.5763693701817991	Music	6.724138088653328	Social Media	Poor	Stressed
+male	Associate’s Degree	completed	83	80	1.7402971726584038	Art	5.614719081322126	Research	Good	Anxious
+female	Bachelor’s Degree	completed	100	97	8.79836325701268	Art	9.054148716121452	None	Average	Anxious
+male	High School	completed	67	64	4.012527425097403	Art	5.507260589721816	Gaming	Poor	Anxious
+female	Bachelor’s Degree	incomplete	67	64	1.3295221705838145	Sports	5.979664045336506	Social Media	Poor	Anxious
+male	High School	incomplete	72	69	0.1170777716251203	Debate	8.436522392454238	Online Classes	Average	Stressed
+male	Some College	incomplete	76	65	3.947813065709113	Music	9.195901904984929	Research	Poor	Anxious
+male	Bachelor’s Degree	completed	90	88	3.6775361924211536	incomplete	6.093849673455523	None	Average	Stressed
+female	Master’s Degree	incomplete	48	50	1.7106380069286475	Sports	6.685026525869735	Social Media	Average	Stable
+male	Master’s Degree	incomplete	62	64	2.497863851143488	Sports	5.15070715255299	Gaming	Good	Stable
+male	Master’s Degree	incomplete	45	40	6.496518776460773	Sports	9.611516837024675	Online Classes	Good	Stable
+female	High School	incomplete	39	33	9.053230825995849	Music	6.192454751966663	Research	Poor	Stressed
+female	Bachelor’s Degree	completed	72	79	2.8042801841982623	incomplete	5.269645211214438	Streaming	Average	Anxious
+male	High School	incomplete	67	66	0.5532306858540925	Sports	6.986908288276039	Streaming	Good	Stable
+female	Some College	incomplete	70	70	9.67050291085298	Dance	7.135725593826757	Streaming	Average	Stable
+male	High School	incomplete	66	62	2.9928955243199797	Dance	5.682479672019534	None	Poor	Stressed
+female	Associate’s Degree	completed	75	79	8.80750510433647	Drama	5.816519746915867	Research	Good	Stable
+female	High School	incomplete	74	74	6.445299593691249	Dance	9.3268533702149	Social Media	Average	Stable
+male	Bachelor’s Degree	completed	90	92	6.637518288969078	incomplete	9.209380624807064	Online Classes	Poor	Stressed
+female	Associate’s Degree	completed	80	80	7.867805670528108	Sports	8.657329884970142	Streaming	Poor	Anxious
+male	Bachelor’s Degree	incomplete	51	46	1.2893793436541856	incomplete	8.701275017921079	Online Classes	Poor	Anxious
+male	Associate’s Degree	incomplete	43	45	1.9614600176530936	Dance	7.720238919959639	Research	Poor	Stressed
+female	Master’s Degree	completed	100	100	7.992672500201211	incomplete	8.317133355601747	Gaming	Average	Anxious
+female	Master’s Degree	completed	71	78	4.858955968967421	Dance	8.467164436513936	None	Poor	Anxious
+male	Master’s Degree	incomplete	48	47	2.737193706174021	Debate	6.713016977005944	Gaming	Good	Stable
+male	Bachelor’s Degree	incomplete	68	67	1.1690798112349188	Dance	7.235966787099466	Online Classes	Good	Stressed
+male	High School	completed	75	70	4.831114102580991	Music	8.101942942771037	Social Media	Good	Anxious
+male	Associate’s Degree	incomplete	96	92	6.8807573796726444	Drama	8.400852585761102	None	Poor	Anxious
+female	Bachelor’s Degree	incomplete	62	56	5.631039383261252	incomplete	4.279751001905238	Gaming	Poor	Stressed
+female	Associate’s Degree	completed	66	64	1.7957698193034866	Dance	8.873160753752146	Social Media	Average	Anxious
+female	Bachelor’s Degree	incomplete	81	71	9.9723019704626	Dance	7.547683079278137	Online Classes	Good	Stable
+male	Uneducated	completed	55	53	8.698638749010456	Music	9.968540506361457	Online Classes	Average	Stressed
+male	Master’s Degree	completed	51	52	2.867201531256604	Debate	9.587937271644948	Gaming	Good	Stable
+female	Some College	incomplete	91	89	1.212613188278424	Drama	7.516530566990936	Gaming	Poor	Stressed
+female	Master’s Degree	completed	56	58	9.610819345490832	incomplete	8.908069542026723	None	Good	Stressed
+female	Associate’s Degree	incomplete	61	68	8.297319395265289	Debate	5.8639458349354605	Gaming	Poor	Anxious
+female	Some College	incomplete	97	96	3.975903337281408	Debate	7.3177081197094545	Research	Poor	Stressed
+female	Associate’s Degree	incomplete	79	80	4.492782366370738	Music	4.668144860959895	Gaming	Good	Anxious
+female	Associate’s Degree	incomplete	73	78	7.588067530306823	Dance	4.338723994254695	Streaming	Poor	Stressed
+female	Some College	completed	75	80	9.69726908940746	Debate	6.831023682787932	None	Good	Stressed
+female	Some College	incomplete	77	77	7.728988228421548	Sports	6.263756758543018	Online Classes	Poor	Stressed
+female	Uneducated	incomplete	76	76	1.308671671589592	Debate	6.314630535067498	Social Media	Poor	Anxious
+female	Uneducated	incomplete	73	73	0.6525123952012424	Music	9.850943543536411	Social Media	Poor	Stressed
+female	High School	incomplete	63	62	8.18639837477706	Sports	7.6293047375466365	None	Good	Stable
+female	High School	incomplete	64	65	5.45141030379341	Music	4.796087134359678	Research	Poor	Stable
+female	Bachelor’s Degree	incomplete	66	65	3.434534068361319	Art	9.738969147235563	Research	Good	Stable
+male	Uneducated	incomplete	57	54	4.693376509304187	Music	5.828703043828772	Research	Average	Stressed
+male	Some College	incomplete	62	50	0.0935210276373821	Debate	8.991187007646577	Research	Poor	Stable
+male	High School	incomplete	68	64	8.351157427098657	Art	7.922613264687767	Gaming	Poor	Stressed
+female	Master’s Degree	incomplete	76	73	5.427857686646947	Art	7.164191231342747	Gaming	Average	Stressed
+female	Associate’s Degree	completed	100	99	9.19827338994162	Music	5.060245964582832	Online Classes	Good	Anxious
+female	Some College	completed	79	72	8.789870050558836	Sports	5.072265980602687	Online Classes	Average	Stressed
+male	Uneducated	incomplete	24	15	2.3503866061240486	Dance	7.325386333243419	Research	Average	Stressed
+male	Some College	incomplete	54	48	9.303680961955116	Sports	9.750927367286344	Social Media	Good	Anxious
+female	Master’s Degree	incomplete	77	73	3.542883022494533	Music	6.866043303253893	Research	Poor	Stable
+female	Uneducated	incomplete	82	81	1.1913708277524615	Music	4.256307370505385	Gaming	Good	Anxious
+female	Some College	incomplete	60	63	5.103939374789384	Music	5.810395675703473	Streaming	Poor	Stressed
+female	Uneducated	incomplete	29	30	9.070030319133256	incomplete	6.809580403452595	Online Classes	Poor	Stable
+female	Some College	incomplete	78	80	6.540850989065784	Art	4.151367911271528	Streaming	Average	Stable
+male	High School	incomplete	57	51	8.22003206534301	Sports	8.464150868893965	Streaming	Average	Stable
+male	Associate’s Degree	completed	89	90	1.263386910747285	Sports	7.342422272591895	Social Media	Average	Anxious
+male	Some College	incomplete	72	62	7.423351250591256	Dance	6.303167452379014	Streaming	Poor	Anxious
+female	Uneducated	incomplete	84	82	9.135602069952014	incomplete	6.884583704301558	Social Media	Poor	Stable
+female	Uneducated	incomplete	58	54	5.637730157886763	Debate	9.771775345665043	Streaming	Average	Stable
+female	Bachelor’s Degree	incomplete	64	62	1.2894231840638193	Art	8.577053910355355	Research	Poor	Stable
+female	Bachelor’s Degree	incomplete	63	65	8.722579169579618	Drama	9.431778140227314	Streaming	Average	Stable
+male	Some College	completed	60	63	5.445668773593822	Dance	7.845638711137304	Gaming	Good	Anxious
+female	Master’s Degree	incomplete	59	66	6.99923573594147	Music	4.9095185502099445	None	Average	Stable
+male	Associate’s Degree	completed	90	91	1.872965659987038	Debate	9.587350627539385	Gaming	Poor	Stressed
+female	High School	incomplete	77	74	4.339346752627399	incomplete	6.8332136536342665	None	Average	Stressed
+female	High School	incomplete	93	93	6.681846687689297	Dance	4.098414889960226	Streaming	Average	Stressed
+female	Some College	incomplete	68	72	0.3799014703856362	Debate	9.650763801844333	Streaming	Good	Anxious
+female	Some College	incomplete	45	38	0.7649556642789312	Dance	6.2843442846809126	Gaming	Poor	Stressed
+male	Uneducated	incomplete	78	83	6.665683168420937	Sports	7.173653206179706	Streaming	Good	Stressed
+male	High School	incomplete	81	84	8.525640426806815	Debate	5.1070091122781305	Research	Average	Stressed
+male	Uneducated	completed	73	68	2.8006762331099297	Sports	6.091309955663656	Streaming	Good	Anxious
+female	Bachelor’s Degree	incomplete	61	54	2.644481425088425	incomplete	4.665760715717139	Online Classes	Poor	Stressed
+male	Bachelor’s Degree	incomplete	63	56	2.8220772468378383	Debate	4.8490943022028	Streaming	Good	Anxious
+male	Master’s Degree	completed	51	52	6.491610994700379	Dance	9.79857008732182	Gaming	Average	Stressed
+male	Some College	completed	96	86	6.700431935763618	Drama	9.274174403110775	Social Media	Good	Stressed
+female	Some College	incomplete	58	62	6.530230631685303	Art	9.839587769124623	Research	Good	Anxious
+male	Uneducated	completed	97	99	7.276399339488851	Dance	9.156840413408304	Online Classes	Poor	Anxious
+male	Uneducated	completed	70	63	4.148458082531703	Debate	9.779359985954814	Gaming	Poor	Stable
+male	Uneducated	incomplete	48	46	6.561104200474669	Debate	4.461937682208411	Streaming	Poor	Stressed
+male	Associate’s Degree	incomplete	57	46	9.828646069916235	incomplete	8.692944172856404	Gaming	Average	Stressed
+female	High School	completed	51	55	9.222385109610215	Sports	4.144893327189459	None	Poor	Anxious
+male	Associate’s Degree	incomplete	64	70	9.946850960899594	Sports	9.664090353987728	None	Poor	Stable
+male	Associate’s Degree	incomplete	60	65	3.2084456118748808	incomplete	4.6480923099346825	None	Average	Stressed
+female	Associate’s Degree	completed	74	81	4.01581066094534	Sports	6.134736146051312	None	Good	Anxious
+female	Uneducated	incomplete	88	85	0.3810032402955943	Art	9.460520739172836	Online Classes	Good	Stable
+male	High School	incomplete	84	80	7.599742181542619	Debate	8.90202109471663	Gaming	Good	Stable
+male	High School	incomplete	74	64	7.3775775102615455	Music	6.013344826801058	Social Media	Average	Stressed
+female	Master’s Degree	completed	80	81	7.353534791249468	Music	5.402511945463981	Research	Poor	Stable
+female	High School	completed	92	88	8.690002850976837	Debate	8.434747282035895	Research	Good	Stable
+male	Associate’s Degree	incomplete	76	74	1.5041301968538157	Art	7.197106292519528	Social Media	Good	Stable
+female	Uneducated	incomplete	74	73	6.325537743255793	Drama	5.483876129074295	Gaming	Good	Stressed
+male	Uneducated	incomplete	52	51	9.827809874241495	Music	9.52957824617259	Social Media	Average	Stable
+female	Associate’s Degree	completed	88	90	3.831909162390783	Sports	9.78687025551108	Gaming	Average	Anxious
+female	Master’s Degree	incomplete	81	79	2.3457915011569987	Art	7.613012845337974	Online Classes	Poor	Stressed
+female	Bachelor’s Degree	completed	79	80	2.5873064332868467	Sports	7.627180681110966	Online Classes	Average	Anxious
+male	Bachelor’s Degree	incomplete	65	60	9.80499558221125	Debate	5.992221022363466	Online Classes	Average	Stressed
+female	Uneducated	completed	81	81	8.802216043159506	Music	5.121423492515058	Streaming	Poor	Stable
+female	Associate’s Degree	incomplete	70	65	7.088987855722708	incomplete	6.808818693435534	None	Good	Stable
+female	Bachelor’s Degree	incomplete	62	68	1.9747724707376455	Sports	6.541976365878895	Research	Good	Stressed
+female	Associate’s Degree	incomplete	53	55	6.310975437884081	incomplete	8.666571776670569	Gaming	Average	Stressed
+female	Bachelor’s Degree	completed	79	81	7.651125865071259	Sports	6.894086682191786	Research	Poor	Stable
+male	Bachelor’s Degree	completed	56	53	0.9644793166103603	incomplete	9.859080817745909	Online Classes	Good	Stressed
+female	Bachelor’s Degree	completed	80	76	6.539456322158505	incomplete	8.797489526263007	Social Media	Good	Stable
+female	High School	completed	86	98	4.363544446963308	Art	9.090034473420408	Research	Average	Stable
+female	Uneducated	completed	70	74	9.086247446291276	Dance	6.646541003739706	Streaming	Good	Anxious
+female	Uneducated	incomplete	79	79	4.760583474157794	incomplete	6.911476223879062	Streaming	Poor	Stressed
+female	Associate’s Degree	incomplete	67	67	0.7059533147925401	Drama	5.709835102189948	None	Good	Anxious
+male	Master’s Degree	incomplete	67	64	0.6382466706682077	incomplete	7.424862166685882	Gaming	Poor	Stressed
+male	Some College	incomplete	66	61	9.974686040292134	incomplete	6.863373789125909	Gaming	Average	Stable
+female	High School	incomplete	60	58	9.157018097833168	Drama	5.699954742771558	Streaming	Poor	Stable
+male	Associate’s Degree	incomplete	87	85	3.73992287224582	Drama	4.42592176035155	Online Classes	Good	Anxious
+male	Bachelor’s Degree	incomplete	77	73	6.310712727241102	Art	4.399298018984109	Online Classes	Average	Stable
+male	Master’s Degree	incomplete	66	63	8.681902010741586	Drama	6.358115865305908	Streaming	Average	Anxious
+female	Associate’s Degree	incomplete	71	69	8.235527884414232	Sports	8.389248824738617	Streaming	Good	Stable
+female	Associate’s Degree	incomplete	69	67	6.782868761238196	Music	6.820451526162263	Streaming	Poor	Anxious
+male	Associate’s Degree	incomplete	63	63	7.224695931369198	Debate	8.926299997368933	Research	Poor	Stable
+female	Associate’s Degree	completed	60	60	0.208633523640721	Sports	7.216707562885401	Social Media	Good	Stressed
+female	Some College	completed	73	71	0.0881673616901279	Art	5.423665254916825	Streaming	Good	Anxious
+female	Some College	incomplete	85	87	9.476607216938248	Art	8.694554959742065	None	Average	Anxious
+male	Master’s Degree	incomplete	74	61	6.677298272311831	Drama	9.037292269806631	Streaming	Poor	Stable
+male	Some College	completed	72	77	7.850481217107868	Sports	7.891564474590601	Gaming	Poor	Anxious
+female	Associate’s Degree	incomplete	76	68	3.4692482196229344	Drama	6.884232295483582	Gaming	Poor	Anxious
+male	Some College	incomplete	57	50	8.39513726341549	Drama	5.843585905678332	Gaming	Poor	Stable
+female	Uneducated	incomplete	78	76	6.485381127491206	Sports	7.347898347543641	Gaming	Average	Anxious
+female	High School	completed	84	84	1.9789671066382253	Sports	6.307711150526074	Social Media	Average	Stable
+female	Some College	completed	77	78	0.1053333029278069	Music	7.787604024741229	Gaming	Poor	Stable
+female	Some College	completed	64	66	0.1394507003864831	Art	6.664622370320641	Social Media	Poor	Anxious
+female	Associate’s Degree	completed	78	76	1.432570512256056	Drama	6.581440394673415	Gaming	Poor	Stable
+female	Master’s Degree	completed	82	76	9.182284713044789	Dance	8.760135264128543	Research	Poor	Anxious
+male	Uneducated	incomplete	75	78	8.405712925447169	Drama	4.797458020756204	Streaming	Average	Stressed
+male	Bachelor’s Degree	incomplete	61	60	0.0939430912878425	Drama	4.4418503461592405	None	Average	Stable
+female	Some College	incomplete	72	74	4.60833860710799	Debate	9.833615263478748	Online Classes	Poor	Anxious
+male	Master’s Degree	incomplete	68	60	1.9163438361712597	Sports	8.973770410685026	Gaming	Poor	Anxious
+male	Master’s Degree	incomplete	55	54	3.9364802437930138	Art	7.200558475015675	Social Media	Average	Anxious
+female	Some College	completed	40	44	3.8135045233937817	Dance	9.392264430370323	Online Classes	Poor	Stable
+male	Uneducated	completed	66	68	2.4362867480958084	Drama	6.910769662472754	Social Media	Good	Anxious
+female	Uneducated	completed	99	100	8.143080295632835	Music	7.080275842696139	Research	Average	Stable
+male	Uneducated	completed	75	68	5.622426025988184	Dance	8.107579906517806	None	Good	Anxious
+male	Associate’s Degree	incomplete	78	73	3.8117847317653775	incomplete	8.462488108377428	None	Good	Stressed
+male	Some College	incomplete	58	44	2.733148680175597	incomplete	9.75563572997562	None	Average	Anxious
+male	Bachelor’s Degree	incomplete	90	83	1.5217547369580275	Dance	4.34721923279431	Social Media	Average	Stable
+female	High School	incomplete	53	53	6.851984053171732	Sports	9.727888849093103	Social Media	Good	Stable
+female	Associate’s Degree	incomplete	76	78	6.487480097065853	Sports	4.875996529122939	None	Good	Anxious
+female	Bachelor’s Degree	completed	74	81	0.3274873599247185	incomplete	4.571785155080005	Research	Good	Stressed
+female	High School	incomplete	77	73	0.4096542401350667	Sports	9.526105278894864	Online Classes	Average	Stressed
+female	Uneducated	incomplete	63	56	8.225748502607214	Music	5.957038125964557	Research	Poor	Stable
+female	Master’s Degree	incomplete	89	86	8.388771175833384	Debate	8.774689462196244	Gaming	Average	Anxious
+female	Associate’s Degree	completed	82	90	2.5520417823574304	Art	6.455616189442165	Gaming	Good	Anxious
+female	Uneducated	incomplete	72	70	4.187795641495136	Debate	9.63629965485237	Social Media	Good	Stressed
+female	High School	completed	78	79	1.9631780263689924	Art	9.30129248541484	Research	Average	Stressed
+male	Uneducated	incomplete	66	59	4.388060346760475	Drama	8.322403347517952	Social Media	Average	Stressed
+female	Master’s Degree	completed	81	82	9.288025125169725	Art	7.432346018059259	Online Classes	Average	Anxious
+female	Associate’s Degree	incomplete	67	72	8.60599340942197	Drama	4.859683037525386	Streaming	Average	Stable
+male	Associate’s Degree	completed	84	87	2.650078821677094	Music	8.106378510565612	Research	Poor	Anxious
+female	Bachelor’s Degree	incomplete	64	67	8.987061760020316	Sports	9.946108967785657	Gaming	Average	Stressed
+female	Master’s Degree	completed	63	64	2.40364919280333	Sports	7.210560712187879	None	Poor	Stable
+male	High School	incomplete	72	65	0.2287762252859715	incomplete	4.245218902814859	Online Classes	Good	Stable
+male	Associate’s Degree	incomplete	34	36	8.277650752163497	Music	7.07497481512991	Social Media	Average	Stable
+male	Uneducated	incomplete	59	52	7.4837835480584385	Sports	9.719892082714612	Online Classes	Average	Anxious
+male	Some College	incomplete	87	79	3.105560029353139	Art	9.313585805921416	Online Classes	Average	Stressed
+female	Some College	completed	61	58	6.753286056037582	incomplete	5.082942820045465	None	Average	Anxious
+male	Bachelor’s Degree	completed	84	90	3.892165772387653	Sports	7.553167882360006	None	Poor	Anxious
+female	High School	completed	85	85	4.697225191997197	Debate	5.612631323148873	Social Media	Good	Stressed
+female	Bachelor’s Degree	incomplete	100	99	1.4688151878593891	Art	7.318419396456872	Social Media	Poor	Stable
+male	High School	incomplete	81	84	2.998031318352578	Art	9.98965041437328	Streaming	Average	Stable
+female	Master’s Degree	completed	70	74	0.5533034883314158	Art	4.365986909330214	Gaming	Average	Anxious
+female	Uneducated	completed	94	87	3.3706002731251994	Debate	5.597519498955798	None	Poor	Stressed
+male	Bachelor’s Degree	completed	78	72	6.135477472181034	Music	9.426154860076776	Online Classes	Average	Stressed
+female	High School	completed	96	99	7.049815663623061	Music	8.797577331343886	Streaming	Average	Stressed
+female	Bachelor’s Degree	incomplete	76	74	5.324366049901994	Sports	5.885904822165709	Online Classes	Good	Stressed
+male	Uneducated	completed	73	80	7.689059377055348	Dance	6.679680328445352	None	Average	Stressed
+female	Master’s Degree	incomplete	72	70	0.0312155084026477	Debate	5.704176557302592	None	Average	Anxious
+male	Uneducated	completed	59	59	0.5195619446967692	Dance	6.122538664041286	Social Media	Average	Stressed
+female	Master’s Degree	completed	90	88	3.3486536832503813	Drama	5.247057358160425	Online Classes	Good	Stable
+male	Bachelor’s Degree	incomplete	48	42	6.796987256833097	incomplete	6.996585645477534	Research	Poor	Stressed
+male	Uneducated	incomplete	43	41	1.5424165074621454	incomplete	8.176125703195954	Research	Good	Stressed
+male	High School	completed	74	71	2.8282874130460103	Drama	6.657024301355795	Gaming	Poor	Anxious
+female	Master’s Degree	completed	75	77	2.656324066875712	Music	6.786463911000869	None	Good	Stable
+male	High School	completed	51	57	1.7162741086489963	Art	7.505981568874153	None	Poor	Stressed
+female	Master’s Degree	incomplete	92	84	6.172700820987833	Sports	9.203429232693347	Research	Average	Stable
+male	Bachelor’s Degree	incomplete	39	37	1.2458677240399263	Dance	5.478888427954557	Online Classes	Poor	Stressed
+female	Associate’s Degree	completed	77	80	0.082098768442399	Art	5.723628091090283	None	Average	Anxious
+male	High School	incomplete	46	43	9.313038971343133	Sports	5.02716145939362	Online Classes	Poor	Stable
+female	Master’s Degree	completed	89	94	3.094658448868073	Dance	4.322568631324563	None	Good	Stressed
+male	Bachelor’s Degree	incomplete	47	44	7.821783662946736	Dance	9.998464014407524	Social Media	Average	Stressed
+female	Bachelor’s Degree	incomplete	58	57	3.267163822590617	Music	6.613697466567193	Gaming	Poor	Stressed
+male	Master’s Degree	incomplete	57	59	3.260596697818021	Dance	8.09810531914546	Social Media	Average	Stable
+male	Some College	incomplete	79	84	2.4239849856272966	Debate	7.19791259123602	Research	Poor	Stable
+female	Associate’s Degree	completed	66	73	3.699864371837716	Debate	5.262525675784615	Research	Average	Anxious
+male	High School	incomplete	71	73	8.516328464079082	Dance	7.019517401315094	Social Media	Average	Stressed
+male	Some College	incomplete	60	55	9.829993001794335	incomplete	8.744374545279856	None	Good	Stressed
+male	Some College	incomplete	73	72	7.437554172656656	Debate	6.93857099625503	Research	Average	Stressed
+female	Master’s Degree	incomplete	57	56	0.5658554449654529	Music	7.466693315951941	None	Average	Stable
+female	Some College	incomplete	84	82	0.7335174499944308	Art	4.193245756808864	Gaming	Poor	Anxious
+female	Some College	completed	73	72	8.19470088516765	incomplete	9.128571819461708	Research	Average	Stable
+male	Bachelor’s Degree	incomplete	55	47	1.733688441946698	Debate	8.945728315810605	Streaming	Poor	Stressed
+male	Master’s Degree	incomplete	79	74	0.9420765122322372	Debate	6.842935649030583	Online Classes	Good	Stable
+male	Associate’s Degree	incomplete	75	71	5.53205429287078	Debate	6.199035309199325	Streaming	Good	Anxious
+male	Uneducated	incomplete	64	68	7.591341745317903	Music	9.383262675474924	Research	Good	Stable
+female	Bachelor’s Degree	incomplete	60	59	8.789310837327978	Debate	9.507091736550615	Gaming	Good	Anxious
+male	Uneducated	completed	84	86	7.608707639622773	Drama	7.633185251735002	Research	Good	Anxious
+male	High School	completed	69	68	4.257841142904333	Music	4.722662141389854	Online Classes	Good	Stable
+male	High School	incomplete	72	65	9.24645186991972	Music	4.1509114946974295	Gaming	Good	Stable
+male	Uneducated	completed	77	75	5.233078958555022	Dance	8.693186182163071	None	Poor	Stable
+female	Master’s Degree	completed	90	85	5.385915056407004	Art	5.977079877599638	Online Classes	Average	Stable
+male	Uneducated	incomplete	55	53	0.671395213428404	Art	8.837460247925403	Online Classes	Average	Anxious
+female	Uneducated	incomplete	95	92	6.10195822672917	Dance	6.766458003395195	Online Classes	Average	Stressed
+male	Associate’s Degree	incomplete	58	52	8.120665154335754	incomplete	4.501694263899905	Streaming	Average	Anxious
+male	Associate’s Degree	completed	68	72	2.141784018652675	Sports	4.868098492140684	Social Media	Average	Stressed
+female	Master’s Degree	completed	59	65	4.130266970020684	Dance	9.805829407506328	None	Good	Anxious
+male	Master’s Degree	completed	77	77	3.4123390214609706	Art	5.581468344693665	Streaming	Poor	Stressed
+female	Master’s Degree	incomplete	72	64	6.2887177384131565	Art	6.681561915201457	Online Classes	Poor	Stressed
+female	Associate’s Degree	incomplete	58	54	5.241670566488544	Sports	5.686047862940258	Gaming	Average	Stable
+male	Master’s Degree	completed	81	86	8.126529655458597	Music	6.896652251301081	Gaming	Good	Anxious
+female	High School	incomplete	62	63	9.09712805873921	Art	6.807573198706194	Online Classes	Poor	Stressed
+male	Some College	incomplete	63	59	4.852777310270038	incomplete	6.50539472456954	None	Poor	Stressed
+female	Bachelor’s Degree	incomplete	72	72	1.6808050911834491	Music	6.935982565867335	Social Media	Good	Anxious
+female	Master’s Degree	completed	75	77	8.708955372886324	Drama	9.40867637359174	Social Media	Average	Stressed
+male	High School	completed	62	60	9.351042145887376	Music	7.655537304747612	Streaming	Average	Stable
+female	Associate’s Degree	incomplete	71	75	6.649300749781664	Dance	7.08209446261212	None	Good	Stressed
+male	Master’s Degree	incomplete	60	57	5.406051331005234	Music	4.765707859621221	None	Average	Anxious
+male	High School	incomplete	48	49	1.3367721617400463	Music	4.223520124231202	None	Poor	Stressed
+male	Associate’s Degree	incomplete	73	74	9.852817446002543	Art	9.380684025194576	Gaming	Good	Stressed
+female	Master’s Degree	completed	67	72	4.318311915369617	Dance	4.739480798168963	Social Media	Good	Anxious
+female	Uneducated	incomplete	78	79	5.748989036112798	Dance	5.1745279328078695	Online Classes	Good	Stable
+male	Bachelor’s Degree	incomplete	65	60	3.9324837248878297	Sports	6.529160938771558	Social Media	Poor	Stable
+female	Associate’s Degree	incomplete	58	55	0.3942173251434711	incomplete	7.0342144896069625	Streaming	Good	Stable
+female	High School	incomplete	72	70	7.008319574304974	Debate	7.853097733494454	None	Average	Stable
+female	Bachelor’s Degree	incomplete	44	43	4.337342923948792	Dance	4.781676145718043	None	Poor	Stable
+female	Associate’s Degree	completed	79	82	6.449983320473452	Music	7.85363538720183	Online Classes	Poor	Stressed
+male	High School	completed	85	82	3.0515944363538083	Drama	6.147970094758427	None	Good	Anxious
+female	Some College	incomplete	56	57	8.863541815252157	Drama	5.423528981505781	Streaming	Good	Stable
+female	High School	incomplete	90	84	5.950385148935426	Sports	5.281679556845662	None	Poor	Stressed
+female	Master’s Degree	completed	85	82	7.753735807392383	Drama	9.853920297972676	Streaming	Poor	Anxious
+female	Some College	completed	59	62	8.924051703954866	Sports	7.347443303070827	Streaming	Average	Stressed
+male	High School	completed	81	79	5.723671642763377	Sports	9.224280864475812	Online Classes	Poor	Stable
+female	Some College	completed	51	44	9.950979511741076	Art	4.038163749895403	Social Media	Average	Anxious
+female	Some College	incomplete	79	77	4.732654840319174	Art	8.767555343830178	Social Media	Good	Stressed
+female	Bachelor’s Degree	incomplete	38	32	1.9217689254116344	Debate	7.137289535132337	Research	Average	Stable
+male	Associate’s Degree	incomplete	65	61	4.362569485644364	incomplete	9.210040448563484	Research	Average	Anxious
+female	High School	incomplete	65	61	2.267460821423266	Dance	4.495076117340798	Streaming	Poor	Anxious
+female	Master’s Degree	incomplete	62	60	9.74597638522642	Sports	9.238475860736882	Research	Average	Stressed
+female	Master’s Degree	incomplete	66	70	1.576888330095354	incomplete	8.685158564238815	Online Classes	Average	Anxious
+male	Master’s Degree	incomplete	74	69	8.599051263020437	incomplete	9.530249029805828	Social Media	Good	Stable
+male	Some College	completed	84	77	2.3213330474232343	Music	4.393251683035444	None	Average	Stressed
+female	Some College	incomplete	52	51	3.593228967421357	Dance	8.60472585333915	Research	Good	Stable
+female	Bachelor’s Degree	completed	68	73	7.601094059311433	Debate	7.034816527234921	Streaming	Average	Anxious
+male	Bachelor’s Degree	incomplete	70	70	3.5227594206803814	Music	7.91840448373164	None	Average	Stressed
+female	Some College	incomplete	84	81	5.488385923369194	Music	7.271911358759237	None	Poor	Stable
+male	High School	incomplete	60	54	7.652843546924882	Art	8.02645034444885	Online Classes	Average	Stressed
+female	Bachelor’s Degree	incomplete	55	57	8.386394208681075	Music	6.268654312519062	Online Classes	Good	Anxious
+male	High School	completed	73	68	3.321696629050731	Music	8.680292660958655	Gaming	Average	Stable
+male	Uneducated	completed	80	73	5.173706666019489	Dance	9.7442515454172	Social Media	Average	Anxious
+female	Master’s Degree	incomplete	94	95	6.236864453656427	Sports	6.689286276904431	Social Media	Average	Stable
+female	High School	incomplete	85	87	9.1732283168853	Dance	9.117735179387896	Online Classes	Average	Stressed
+female	High School	incomplete	76	78	3.9984902485064335	Drama	6.071301131771453	Social Media	Average	Anxious
+male	Uneducated	incomplete	81	74	7.599097203085056	Debate	8.69105373721905	Social Media	Poor	Anxious
+female	Uneducated	incomplete	74	75	9.454339805303322	Debate	6.560331740480194	Online Classes	Good	Anxious
+female	Master’s Degree	incomplete	45	40	7.946214633152252	Drama	4.761853464496902	None	Good	Stressed
+male	Bachelor’s Degree	incomplete	75	69	2.043858815720437	Music	7.889719033095105	Online Classes	Average	Anxious
+male	Uneducated	incomplete	54	51	6.360419646117025	incomplete	8.68483565063814	Gaming	Poor	Anxious
+male	Bachelor’s Degree	incomplete	31	36	7.363947841747817	Debate	7.341541274689753	Social Media	Average	Stable
+male	Master’s Degree	incomplete	47	49	8.759909459255837	Art	7.832072453560107	Research	Average	Stressed
+female	Master’s Degree	completed	64	67	2.202216368080178	Sports	6.757461161307045	Online Classes	Average	Anxious
+male	High School	completed	84	76	7.26500185692246	Dance	9.345879798943512	Streaming	Poor	Anxious
+female	Associate’s Degree	incomplete	80	83	5.640656233045064	incomplete	4.059634621747966	Online Classes	Average	Anxious
+male	Bachelor’s Degree	completed	86	87	7.062813284033108	Dance	5.500187531248603	Research	Poor	Stressed
+female	Master’s Degree	incomplete	59	64	8.479321005549968	Music	4.96100150855406	Streaming	Good	Stressed
+male	Master’s Degree	completed	70	76	1.4214440724012534	incomplete	5.625170994872615	Gaming	Average	Anxious
+female	Bachelor’s Degree	incomplete	72	68	9.10752319247065	Drama	7.715728491648013	Social Media	Poor	Anxious
+female	Master’s Degree	incomplete	91	88	2.753392049511288	Sports	7.316039078894425	None	Average	Stressed
+female	Master’s Degree	completed	90	92	9.25486702855294	Debate	4.303082715273227	Online Classes	Poor	Anxious
+female	Master’s Degree	incomplete	90	93	1.4171020167596526	incomplete	4.356985860139614	Research	Good	Anxious
+male	Uneducated	completed	52	51	9.945930281138466	Music	7.1609477257756895	Research	Average	Stressed
+female	Associate’s Degree	incomplete	87	82	4.325426657210669	Debate	6.196913170018823	None	Poor	Stable
+female	Some College	incomplete	58	52	2.5722795834305345	Sports	5.414317522847043	Gaming	Poor	Anxious
+male	Some College	incomplete	67	58	3.818911269631205	Debate	6.487511884301942	Gaming	Good	Anxious
+female	Master’s Degree	completed	68	70	8.0929779211508	Dance	9.813549495414088	Gaming	Average	Anxious
+female	Uneducated	incomplete	69	76	3.185084606847611	Debate	5.112072209286688	None	Poor	Stressed
+female	High School	completed	86	81	0.5938293702802333	Debate	4.77235186507524	Research	Poor	Stressed
+male	Bachelor’s Degree	incomplete	54	53	6.099980830038513	Sports	7.002684439590115	Gaming	Average	Stable
+female	Bachelor’s Degree	incomplete	60	57	8.621215234855159	incomplete	6.615528289149234	Online Classes	Poor	Stressed
+female	Uneducated	completed	86	89	2.9014887686734947	Debate	5.137299426814005	None	Average	Anxious
+male	High School	incomplete	60	58	9.884099182723562	Drama	5.312082647735975	Online Classes	Poor	Anxious
+female	Uneducated	completed	82	89	4.660192792653516	Drama	6.113541957219391	None	Good	Anxious
+male	Associate’s Degree	incomplete	50	45	4.216430378866828	Art	7.561405439029759	Gaming	Good	Stressed
+female	Some College	completed	64	74	3.333852134668198	Music	9.471222870792356	None	Good	Stable
+male	Master’s Degree	incomplete	64	57	0.5187962970917814	incomplete	6.2716710683198444	Online Classes	Poor	Stressed
+female	Some College	completed	82	79	4.604659841492143	Art	4.79461836978652	Online Classes	Good	Stable
+male	Master’s Degree	completed	57	53	4.591110873379968	incomplete	9.8185172762243	Gaming	Average	Stressed
+female	High School	incomplete	77	73	6.509903892563097	Debate	8.838673027245541	Streaming	Average	Stressed
+female	Some College	incomplete	52	46	9.227141400144763	Music	5.805028935758139	Gaming	Average	Stable
+male	Uneducated	incomplete	58	51	3.625546197038413	Sports	5.951109809783645	Gaming	Poor	Anxious
+female	Associate’s Degree	completed	44	36	8.670171242479634	Dance	4.1070758251886685	Social Media	Good	Stable
+male	Associate’s Degree	completed	77	76	3.040371709	Art	4.76365715867518	Research	Poor	Anxious
+female	High School	completed	65	64	5.613509493481078	incomplete	5.415724892795466	None	Average	Stable
+male	Associate’s Degree	incomplete	85	84	4.08520234078061	incomplete	6.588485880524245	None	Poor	Stable
+male	Associate’s Degree	completed	85	85	3.8303558977420336	incomplete	5.304014399665158	Research	Poor	Stable
+male	Bachelor’s Degree	incomplete	54	50	5.836686651265719	Debate	9.97898690146008	Social Media	Average	Stable
+female	High School	incomplete	72	68	7.085185696366776	Debate	5.626120129123878	Streaming	Poor	Stressed
+male	Bachelor’s Degree	incomplete	75	69	3.5759025930910004	Debate	8.63466445406096	None	Poor	Anxious
+male	Associate’s Degree	incomplete	67	67	7.967577660383927	Dance	7.348936328896344	Social Media	Poor	Stressed
+female	Some College	incomplete	68	63	2.9606543606956737	Sports	4.299790710538353	Gaming	Good	Stable
+female	Associate’s Degree	incomplete	85	93	8.84712386993793	Debate	4.7383322621817845	Streaming	Poor	Stressed
+male	High School	incomplete	67	61	2.8876488837716243	Sports	7.090798278636707	Online Classes	Poor	Anxious
+male	Some College	incomplete	64	55	1.746721668474287	Debate	8.570269875394189	Gaming	Average	Anxious
+female	Master’s Degree	incomplete	97	96	5.086642907693527	Dance	6.477153365588632	Online Classes	Average	Anxious
+male	Associate’s Degree	incomplete	68	65	0.1683997604674159	Music	9.89049021422024	Streaming	Good	Stressed
+female	Uneducated	incomplete	79	81	5.079577043460919	Music	7.966410285101522	Gaming	Average	Stressed
+male	Bachelor’s Degree	completed	49	46	7.93207295255703	Debate	6.076470044672227	Gaming	Poor	Stressed
+male	Bachelor’s Degree	incomplete	73	72	3.5210322391477766	Music	8.815533557866209	Research	Average	Anxious
+female	Master’s Degree	incomplete	62	53	4.837092472850425	Drama	9.550180395828114	Research	Average	Stressed
+female	Bachelor’s Degree	incomplete	86	87	0.702734530864848	Art	6.827412177022641	Research	Good	Stressed
+male	High School	completed	42	38	0.9866131374417542	incomplete	8.21104225734975	Social Media	Average	Stable
+female	Bachelor’s Degree	completed	71	80	9.980952753528843	Art	9.837839272811191	Online Classes	Poor	Anxious
+male	Associate’s Degree	incomplete	93	91	7.671602659153404	incomplete	4.934863241382283	Streaming	Average	Anxious
+male	Bachelor’s Degree	completed	82	88	5.092295969142537	Drama	7.526922491891026	Online Classes	Poor	Stable
+male	Some College	incomplete	53	52	7.869066236336296	incomplete	5.9309934465741465	None	Good	Stressed
+male	Associate’s Degree	incomplete	42	41	7.969826309176883	Drama	4.765563335226893	Gaming	Good	Stressed
+male	High School	completed	74	72	2.224216572334189	Dance	5.078075961190641	Streaming	Average	Stable
+male	Some College	incomplete	51	51	9.880255537732518	Sports	8.575953631041706	None	Poor	Stressed
+male	High School	incomplete	58	47	5.824582068171013	Dance	9.587353369490003	Online Classes	Poor	Stressed
+female	Master’s Degree	completed	72	76	5.512787482816687	Dance	6.786438969576371	None	Good	Stable
+male	Master’s Degree	completed	84	78	5.653723583533921	Music	6.810882208392133	Online Classes	Poor	Stable
+male	Master’s Degree	incomplete	90	82	2.009115281915866	Sports	5.519955517211061	Gaming	Poor	Anxious
+female	Master’s Degree	incomplete	62	61	5.977321386230416	Drama	6.231419097076026	Gaming	Average	Anxious
+male	Master’s Degree	incomplete	64	66	6.01174468282316	Sports	4.934881326664275	Streaming	Good	Stable
+male	Associate’s Degree	incomplete	82	84	5.883884476008863	incomplete	4.248687753882473	Social Media	Poor	Anxious
+male	Uneducated	incomplete	61	54	1.0767336160001806	Drama	9.92014945406593	Online Classes	Poor	Anxious
+female	Some College	incomplete	72	80	6.186185628932429	incomplete	5.197180215163784	Streaming	Average	Anxious
+female	Bachelor’s Degree	incomplete	76	74	7.704774741978147	Art	5.801442356185379	Streaming	Poor	Stable
+male	Some College	completed	64	66	2.669587050607312	Drama	5.497438144048413	Online Classes	Average	Stressed
+female	Uneducated	completed	70	70	3.6236332322352416	Art	4.299753457482654	Gaming	Good	Anxious
+female	Some College	incomplete	73	71	4.960324372908124	Dance	8.368231786110318	Streaming	Average	Stable
+male	Bachelor’s Degree	incomplete	46	44	2.535947212964543	Debate	4.008118006176082	Streaming	Poor	Anxious
+female	Master’s Degree	incomplete	51	54	5.429789665158983	Music	5.282294721352881	Gaming	Poor	Stable
+female	Some College	completed	76	80	1.3795197842487938	Drama	4.044785285477987	Social Media	Average	Stable
+female	Some College	completed	100	95	6.417555351735463	Dance	9.008638495900517	None	Poor	Anxious
+male	Bachelor’s Degree	incomplete	72	59	6.88272174569348	incomplete	5.779421498148811	Streaming	Good	Anxious
+female	Some College	incomplete	65	74	6.201568957577547	Music	6.257242710045885	None	Average	Anxious
+male	Bachelor’s Degree	incomplete	51	48	5.925971209810401	Art	4.1139720813233644	Online Classes	Poor	Stable
+female	Uneducated	completed	85	91	8.315341132039741	Debate	8.597501556054688	None	Average	Anxious
+female	Master’s Degree	incomplete	92	85	4.57869482628986	Music	5.018607788215989	None	Average	Anxious
+female	Uneducated	incomplete	67	73	7.906776494742326	Sports	5.803898511589665	None	Average	Stressed
+male	Bachelor’s Degree	completed	74	75	4.006211079919754	Music	7.804692368921477	Online Classes	Poor	Stable
+female	Associate’s Degree	incomplete	62	69	3.94601566596608	Music	5.313742881824444	Streaming	Poor	Stressed
+female	High School	incomplete	34	38	2.1662251897645133	Music	5.875216698553942	Social Media	Average	Anxious
+male	Some College	incomplete	29	27	6.915441830757432	Music	5.264052549535953	Online Classes	Good	Stressed
+female	High School	completed	78	79	8.759685993456396	Drama	7.586142397452662	Online Classes	Good	Anxious
+male	Some College	completed	54	63	8.232669375042665	Dance	6.7615941662356125	Online Classes	Poor	Stressed
+female	Associate’s Degree	completed	78	82	7.09297480778904	incomplete	9.819380792654467	Research	Average	Anxious
+male	Master’s Degree	incomplete	84	89	3.5772138794482657	Sports	4.594859486428044	Research	Average	Stressed
+female	Uneducated	incomplete	78	74	6.450951896266133	Dance	5.372197821656799	Streaming	Poor	Anxious
+female	Master’s Degree	completed	48	41	8.513994449377414	Music	7.449717527350015	Online Classes	Average	Anxious
+female	Associate’s Degree	completed	100	100	4.381481020840347	incomplete	7.415554496681887	Online Classes	Good	Stable
+female	Uneducated	incomplete	84	84	9.114709040764245	Art	6.022990125970839	Streaming	Good	Stressed
+male	Some College	incomplete	77	77	8.327868188049216	Dance	9.714871925950408	Online Classes	Poor	Stable
+male	Master’s Degree	incomplete	48	51	1.0214266912503445	Debate	8.590080542539146	Social Media	Average	Stressed
+female	Bachelor’s Degree	completed	84	91	1.3508541363882187	Debate	6.8054309578308505	Streaming	Poor	Stable
+female	Master’s Degree	incomplete	75	72	9.255224493063784	incomplete	9.638188853011131	Research	Poor	Stable
+male	Uneducated	completed	64	70	5.034142826842491	Art	4.027365413876579	Online Classes	Good	Stable
+male	Master’s Degree	incomplete	42	48	8.153154786293747	Music	8.369184502264602	Online Classes	Average	Anxious
+female	Associate’s Degree	incomplete	84	82	1.002446563289353	Drama	6.342392262146919	Research	Average	Stable
+female	Uneducated	completed	61	66	4.119194260304267	Sports	6.590566312016578	None	Average	Stressed
+female	Associate’s Degree	completed	62	66	2.5398008539735883	incomplete	5.52114439693838	None	Average	Anxious
+female	Master’s Degree	incomplete	61	55	9.278133410072895	Art	6.194102084354941	Streaming	Good	Stable
+female	High School	incomplete	70	66	7.77731808741075	Dance	4.029305625579031	Online Classes	Poor	Anxious
+male	Master’s Degree	completed	100	100	3.160790628010952	Debate	4.9366908791352655	Research	Good	Stressed
+female	High School	incomplete	61	52	9.97513883771258	Dance	9.218398916676255	None	Average	Anxious
+female	Uneducated	completed	77	80	6.350256614916231	Debate	7.187497457938396	Research	Poor	Stable
+male	Master’s Degree	completed	96	91	7.0405806496484535	Sports	7.868241662324185	Online Classes	Good	Stable
+male	Master’s Degree	incomplete	70	67	3.2120451501956104	Sports	6.807305962798688	Streaming	Average	Stable
+female	Associate’s Degree	incomplete	53	46	0.913325343392568	incomplete	4.4562567380102776	Research	Poor	Anxious
+male	Master’s Degree	incomplete	66	66	9.819045643839113	Dance	6.600804290008631	Gaming	Average	Anxious
+female	Uneducated	incomplete	65	65	4.716049140779724	Drama	7.106045477380615	Gaming	Average	Anxious
+male	Bachelor’s Degree	incomplete	70	69	1.4778240376644414	Music	8.080314969663204	Online Classes	Good	Stable
+male	Some College	completed	64	60	9.834956686886764	Music	5.315465626505714	Streaming	Average	Anxious
+male	Associate’s Degree	incomplete	56	52	4.188959703087841	Debate	7.897319329847242	Online Classes	Average	Anxious
+female	Some College	completed	61	71	7.210534336681952	Drama	4.9257262502380526	Research	Poor	Anxious
+male	Master’s Degree	completed	43	44	0.2684560336249175	Sports	7.120060402081793	Research	Average	Anxious
+female	Bachelor’s Degree	incomplete	56	51	6.728192647910364	incomplete	5.31781406536801	Research	Poor	Stressed
+male	Associate’s Degree	completed	74	70	6.06099708921191	Dance	5.159102437970321	Research	Good	Anxious
+male	Some College	incomplete	57	62	6.89947752568963	Debate	5.309437140817322	Gaming	Poor	Stressed
+male	Some College	completed	71	73	3.5441304514658434	Music	9.774136177896356	Social Media	Poor	Stable
+male	Some College	completed	75	74	5.911701776386483	Dance	8.976555223137588	Online Classes	Average	Stable
+male	Associate’s Degree	completed	87	90	4.463077256165562	Art	8.122198570873994	Gaming	Average	Stressed
+male	Bachelor’s Degree	incomplete	63	58	9.357756730589236	incomplete	8.331325343131912	Gaming	Good	Stable
+male	Associate’s Degree	incomplete	57	53	2.7944070633535367	Debate	8.799131555315224	Gaming	Average	Stressed
+female	Bachelor’s Degree	incomplete	58	57	4.303176309920618	Sports	8.980017802738889	Social Media	Average	Stressed
+male	Bachelor’s Degree	completed	81	85	6.655217261787301	Dance	8.499280187823718	Social Media	Good	Stressed
+male	Master’s Degree	completed	68	69	4.873203645544328	Debate	7.661480158196252	None	Poor	Anxious
+male	Some College	completed	66	72	4.969213620219868	Drama	7.009074484025472	None	Average	Stressed
+female	Master’s Degree	incomplete	91	96	0.4550618933832895	Music	9.391224924196653	Online Classes	Good	Anxious
+male	Bachelor’s Degree	incomplete	66	64	6.209869730987087	Drama	6.661193051011096	None	Good	Stable
+male	Master’s Degree	completed	62	61	2.2366312898368523	Drama	4.266906608610373	Streaming	Good	Anxious
+female	Some College	incomplete	68	61	1.3886901106971206	incomplete	9.943958368823957	Online Classes	Good	Anxious
+female	Master’s Degree	incomplete	61	58	6.686155086273326	Art	7.425332473005666	None	Poor	Anxious
+male	Some College	incomplete	82	80	0.3413741459426378	Debate	7.830846475683927	Social Media	Good	Anxious
+female	High School	incomplete	58	60	3.9325170038031008	Art	4.7479404991274015	Online Classes	Average	Stressed
+male	Bachelor’s Degree	completed	50	52	8.859160666166751	Music	6.470037127539878	Social Media	Good	Stressed
+female	Bachelor’s Degree	completed	75	73	1.8008784411466028	Art	8.286511372674891	Streaming	Average	Anxious
+male	High School	incomplete	73	71	6.272553996394496	Drama	4.727476419341604	Gaming	Good	Anxious
+female	Master’s Degree	completed	77	83	3.132372687000119	Music	9.55386596511785	Streaming	Average	Anxious
+female	Uneducated	incomplete	74	72	0.8775229162221132	Drama	5.681423226666578	Research	Average	Stressed
+male	High School	completed	52	54	9.333156751656915	Music	5.007133752521614	Streaming	Good	Anxious
+female	Master’s Degree	incomplete	69	69	3.9625364803407614	incomplete	7.759467068082589	None	Poor	Stressed
+male	Associate’s Degree	incomplete	57	62	0.01815684697266	Art	5.303739654287402	Online Classes	Average	Stressed
+male	Some College	incomplete	87	81	6.996214268607631	Sports	8.81168498875748	Streaming	Average	Stable
+female	Bachelor’s Degree	incomplete	100	100	7.666762398458879	Music	5.90892736425058	None	Average	Anxious
+female	Master’s Degree	incomplete	63	59	0.9214264358954672	Sports	6.541057854468087	Research	Poor	Stressed
+male	Associate’s Degree	incomplete	81	71	8.690716528671835	Music	6.321128292083106	None	Average	Anxious
+female	High School	incomplete	58	64	7.005538749788203	Sports	8.751441321781051	Online Classes	Poor	Anxious
+female	High School	incomplete	54	53	6.091823348749051	Sports	7.75123119308219	Research	Average	Stable
+female	Associate’s Degree	incomplete	100	100	3.0981334801590665	Art	5.762654380792941	Streaming	Good	Stressed
+female	Uneducated	completed	76	75	6.819333338808696	Drama	6.380750768278152	Research	Average	Anxious
+male	Some College	incomplete	57	58	3.8101887489251816	incomplete	8.618501662669136	None	Poor	Stable
+female	Uneducated	incomplete	70	72	4.636729149876333	Art	6.542608990233573	Streaming	Good	Stressed
+male	Some College	completed	68	64	6.138695817991918	incomplete	9.050971003982838	Social Media	Good	Stressed
+male	Bachelor’s Degree	incomplete	63	60	0.646519168358306	Debate	7.531344546510043	Online Classes	Average	Stressed
+female	Some College	incomplete	76	67	4.97000181033698	Sports	4.086156000380322	Research	Average	Anxious
+female	Associate’s Degree	incomplete	84	80	7.36566508053066	Sports	7.412937716400723	Social Media	Poor	Stressed
+female	Some College	incomplete	100	100	7.080377798646804	Art	6.866483668092523	None	Average	Anxious
+male	Associate’s Degree	completed	72	69	4.641374245813789	Debate	4.269153663074382	Online Classes	Poor	Stressed
+female	Master’s Degree	completed	50	60	4.958349800422409	Music	5.918242015413128	Streaming	Average	Stressed
+female	Bachelor’s Degree	incomplete	65	61	7.970777215687103	Art	9.891589259528892	Online Classes	Poor	Stable
+female	Master’s Degree	incomplete	63	67	1.1578930340995477	Sports	4.224192609225977	Gaming	Poor	Stable
+female	High School	completed	82	77	2.665594256920759	Sports	6.298994680728942	Research	Good	Stable
+male	Uneducated	completed	62	60	1.7856797349124145	Sports	8.446161104165565	Online Classes	Good	Anxious
+male	Associate’s Degree	incomplete	65	58	0.5048191837779681	Music	7.730799765500074	None	Poor	Stable
+male	Associate’s Degree	completed	41	48	6.2531632509377975	Music	9.100062066389032	None	Good	Stressed
+female	Master’s Degree	incomplete	95	94	0.8455630801678682	Sports	5.787403930637674	Research	Average	Anxious
+female	Associate’s Degree	incomplete	24	23	0.6654369330864163	Sports	7.852291506724223	Streaming	Good	Anxious
+male	Bachelor’s Degree	incomplete	78	78	8.360266897339823	incomplete	9.218252840083212	Streaming	Average	Stressed
+male	Uneducated	completed	85	86	3.728230964	Sports	7.585332058853842	Gaming	Poor	Anxious
+female	Associate’s Degree	completed	87	91	2.6810496131997894	incomplete	7.121916543248201	Gaming	Average	Stressed
+female	Uneducated	incomplete	75	82	1.1610902161598091	Art	5.950214054792832	None	Average	Stable
+male	High School	incomplete	51	54	8.172669572053636	Dance	4.679580830896681	Streaming	Good	Stable
+female	Uneducated	incomplete	59	51	0.0685396324005815	Music	4.242704349020993	Research	Poor	Stable
+male	Some College	completed	75	76	0.6420937171873842	Debate	8.728932552470916	None	Average	Stable
+female	Some College	incomplete	45	45	1.5580400685080986	Art	9.983029222445378	Research	Good	Anxious
+female	Bachelor’s Degree	completed	86	83	2.1802197410309008	Sports	8.384404373792227	None	Good	Stressed
+male	Bachelor’s Degree	completed	81	75	6.98363597392662	Debate	9.561400438700602	Social Media	Poor	Anxious
+female	Some College	completed	82	78	9.122234064103182	Drama	8.505765332475605	Research	Good	Stressed
+female	Master’s Degree	incomplete	76	76	2.4280790522859883	Sports	4.5146661276932765	Gaming	Good	Anxious
+female	Some College	incomplete	72	74	0.0588555086990605	Drama	4.284280560041895	None	Poor	Stressed
+male	Uneducated	incomplete	63	62	8.345228531307184	Art	9.065090795075603	Research	Poor	Anxious
+female	Uneducated	completed	99	95	7.003088892169575	Art	6.419741539670374	Streaming	Average	Stable
+male	Bachelor’s Degree	incomplete	55	55	4.559515219712003	Music	8.081679090311734	Research	Average	Anxious
+female	Some College	completed	71	65	1.3642363183111903	Dance	9.525794742987348	Social Media	Poor	Stable
+female	Bachelor’s Degree	completed	78	77	7.291018177501072	Drama	8.88779410219304	Research	Average	Stable
+female	Bachelor’s Degree	incomplete	86	86	0.2829444069986797	Music	5.389034014728811	Research	Poor	Stable
