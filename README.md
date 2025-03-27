@@ -11,7 +11,6 @@ This project predicts a student's academic performance based on various factors 
 ✅ Provides personalized feedback for improvement
 ✅ Uses machine learning models (Random Forest, Decision Tree, etc.)
 ✅ Flask-based web interface for user-friendly interaction
-
 🛠️ Tech Stack
 🔹 Frontend: HTML, CSS, JavaScript
 🔹 Backend: Flask (Python)
